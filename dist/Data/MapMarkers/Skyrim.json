@@ -1,0 +1,5055 @@
+{
+  "revealUndiscoveredPrefix": "Undiscovered_Tir",
+  "iconDefinitions": [
+  {
+    "name": "WhiterunTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 40", "CoMAP 40 Undiscovered"]
+  },
+    "scale": 1.5,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SolitudeTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 42", "CoMAP 42 Undiscovered"]
+  },
+    "scale": 1.5,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WindhelmTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 38", "CoMAP 38 Undiscovered"]
+  },
+    "scale": 1.5,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MarkarthTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 44", "CoMAP 44 Undiscovered"]
+  },
+    "scale": 1.5,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RiftenTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 36", "CoMAP 36 Undiscovered"]
+  },
+    "scale": 1.5,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FalkreathTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 50", "CoMAP 50 Undiscovered"]
+  },
+    "scale": 1.5,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DawnstarTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 52", "CoMAP 52 Undiscovered"]
+  },
+    "scale": 1.5,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MorthalTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 48", "CoMAP 48 Undiscovered"]
+  },
+    "scale": 1.45,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WinterholdTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 46", "CoMAP 46 Undiscovered"]
+  },
+    "scale": 1.5,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RiverwoodTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 2", "CoMAP 2 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "IvarsteadTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 2", "CoMAP 2 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RoriksteadTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 2", "CoMAP 2 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonBridgeTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 2", "CoMAP 2 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "KarthwastenTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 2", "CoMAP 2 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ShorsStoneTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 2", "CoMAP 2 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "OldHroldanInnTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DarkwaterCrossingTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HalfMoonMillTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MixwaterMillTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SolitudeSawmillTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HeartwoodMillTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DushnikhYalTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 28", "CoMAP 28 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "LargashburTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 28", "CoMAP 28 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MorKhazgurTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 28", "CoMAP 28 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NarzulburTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 28", "CoMAP 28 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HighHrothgarTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 6", "CoMAP 6 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SkaalVillageTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 2", "CoMAP 2 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RavenRockTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 54", "CoMAP 54 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "TelMithrynTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 56", "CoMAP 56 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "UnderstoneKeepTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 43", "CoMAP 43 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "IcewaterJettyTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 33", "CoMAP 33 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FortDawnguardTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 1", "CoMAP 1 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FortDawnguardTP2",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 1", "CoMAP 1 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "PalaceoftheKingsTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 37", "CoMAP 37 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonsreachTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 39", "CoMAP 39 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MistveilKeepTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 35", "CoMAP 35 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BluePalaceTP",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 41", "CoMAP 41 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Solstheim",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 58", "CoMAP 58 Undiscovered"]
+  },
+    "scale": 1.4,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Skyrim",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 57", "CoMAP 57 Undiscovered"]
+  },
+    "scale": 1.4,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HalloftheVigilant",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NightgateInn",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Froki'sShack",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Kynesgrove",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SkaalVillage",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 2", "CoMAP 2 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WinterholdCollege",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 45", "CoMAP 45 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SolitudeBluePalace",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 41", "CoMAP 41 Undiscovered"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Stonehills",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AngasMill",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "StendarrsBeacon",
+    "source": 
+  {
+    "path": "Resources\\vanillaresources.swf",
+    "exportNames": ["CoMAP 30", "CoMAP 30 Undiscovered"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Зачищено ===========================================================================================================================================
+  {
+    "name": "Zachisheno",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Zachisheno", "Zachisheno"]
+  },
+    "scale": 1.0
+  },
+
+  // Империя  ==========================================================================================================================================
+  {
+    "name": "EmpireLimit",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Imperiya", "Imperiya"]
+  },
+    "scale": 1.2
+  },
+  {
+    "name": "EmpireHjaalmarch",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Imperiya", "Imperiya"]
+  },
+    "scale": 1.2
+  },
+  {
+    "name": "EmpireWhiteCoast",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Imperiya", "Imperiya"]
+  },
+    "scale": 1.2
+  },
+  {
+    "name": "EmpireWinterhold",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Imperiya", "Imperiya"]
+  },
+    "scale": 1.2
+  },
+  {
+    "name": "EmpireRift",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Imperiya", "Imperiya"]
+  },
+    "scale": 1.2
+  },
+  {
+    "name": "EmpireFalkreath",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Imperiya", "Imperiya"]
+  },
+    "scale": 1.2
+  },
+  {
+    "name": "EmpireWhiterun",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Imperiya", "Imperiya"]
+  },
+    "scale": 1.2
+  },
+  {
+    "name": "EmpireEastmarch",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Imperiya", "Imperiya"]
+  },
+    "scale": 1.2
+  },
+
+  // Братья Бури  ======================================================================================================================================
+  {
+    "name": "StormcloaksReach",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["BratBuri", "BratBuri"]
+  },
+    "scale": 1.1
+  },
+  {
+    "name": "StormcloaksHjaalmarch",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["BratBuri", "BratBuri"]
+  },
+    "scale": 1.1
+  },
+  {
+    "name": "StormcloaksWhiteCoast",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["BratBuri", "BratBuri"]
+  },
+    "scale": 1.1
+  },
+  {
+    "name": "StormcloaksWinterhold",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["BratBuri", "BratBuri"]
+  },
+    "scale": 1.1
+  },
+  {
+    "name": "StormcloaksRift",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["BratBuri", "BratBuri"]
+  },
+    "scale": 1.1
+  },
+  {
+    "name": "StormcloaksFalkreath",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["BratBuri", "BratBuri"]
+  },
+    "scale": 1.1
+  },
+  {
+    "name": "StormcloaksHaafingar",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["BratBuri", "BratBuri"]
+  },
+    "scale": 1.1
+  },
+  {
+    "name": "StormcloaksWhiterun",
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["BratBuri", "BratBuri"]
+  },
+    "scale": 1.1
+  },
+
+  // Бандиты ===========================================================================================================================================
+  // Бандиты тир 1 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "EmbershardMine", // Факельная Шахта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir1", "Undiscovered_Tir1_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Smuggler'sDen", // Лагерь Контрабандистов
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir1", "Undiscovered_Tir1_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DestroyedTower", // Разрушенная башня
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir1", "Undiscovered_Tir1_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CampThicket", // Лагерь Чаща
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir1", "Undiscovered_Tir1_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FalkreathCrossingAmbush", // Бандитская застава
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir1", "Undiscovered_Tir1_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AbandonedCamp", // Заброшенный лагерь
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir1", "Undiscovered_Tir1_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CampIstok", // Лагерь Исток
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir1", "Undiscovered_Tir1_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CampFallenPines", // Лагерь Поваленные Сосны
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir1", "Undiscovered_Tir1_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CampSkyCliff", // Лагерь Небесный Утес 
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir1", "Undiscovered_Tir1_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "IlinmirTower", // 
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir1", "Undiscovered_Tir1_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Бандиты тир 2 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "BannermistTower", // Башня Баннермист
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Swindler'sDen", // Логово Плута
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ValtheimTowers", // Башни Валтейм
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SilentMoonsCamp", // Лагерь Тихих Лун
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HaltedStreamCamp", // Лагерь Чистых Родников
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Crossroads", // Перепутье
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WhiteRiverWatch", // Приречная застава 
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Redoran'sRetreat", // Приют Редорана
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FortGreymoor", // Приют Редорана
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Orotheim", // Оротхейм
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RobbersGorge", // Теснина Грабителя
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "KnifepointRidge", // Хребет Острие Ножа
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NorthernSkyboundWatchPass", // Северная горная застава
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SouthernSkyboundWatchPass", // Южная горная застава
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Pinewatch", // Сосновая застава
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WhisperingShack", // Шепчущая лачуга
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FishingCamp", // Рыбачий Лагерь
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MammothGraveyard", // Кладбище мамонтов
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HonningbrewMeadery", // Медоварня Хоннинга
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WhitewatchTower", // Белая сторожевая башня
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Бандиты тир 4 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "SnowpointBeacon", // Сигнальная башня Снежная
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "StonyCreekCave", // Пещера Каменный Ручей
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Mistwatch", // Туманная застава
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "LostKnifeHideout", // Убежище Потерянный Нож
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DriftshadeSanctuary", // Дрифтшейд - Приют
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["SerebRuka_Tir6", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FortFellhammer", // Форт Феллхаммер
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Helgen", // Хелген
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FortNeugrad", // Форт Нойград
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FortHraggstad", // Форт Храгстад
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "OrphanTear", // Слеза Сироты
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "IronbindRetreat", // Железное убежище
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FortGreenwall", // Форт Гринвол
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "TrevaWatch", // Тревская застава
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BlackBriarLodge", // Резиденция Черный Вереск
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DestroyedTowerRift", // Разрушенная башня Рифта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Nilheim", // Нилхейм
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BrokenHelmHollow", // Лощина Сломанный Шлем
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FaldarsTooth", // Зуб Фалдара
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ObservationPost", // Наблюдательный пост
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FortDunstad", // Форт Дунстад
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "LordStone", // Камень Лорда
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CaravanTower", // Башня Каравана
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WindCamp", // Лагерь Ветров
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BlizzardCamp", // Лагерь Буран
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WaterfallCamp", // Лагерь Водопад
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "IceHollowCamp", // Лагерь Ледяная Лощина
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SnowyExpanseCamp", // Лагерь Снежный Простор
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FangCamp", // Лагерь Клык
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FreylaShack", // Хижина Фрейлы
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "IronSkullMine", // Шахта Железный Череп
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Korvanjund", // Корваньюнд
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BrinehammerWreck", // Грот Соленая Вода
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CragslaneCavern", // Пещера Крегслейн
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "GoldenglowEstate", // Поместье Златоцвет
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "EastEmpireCompanyWarehouse", // Склад Восточной имперской компании
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SolitudeLighthouse", // Солитьюд - Маяк
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AutumnwatchTower", // Осенняя сторожевая башня
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RuinsofBthalft", // Руины Бталфта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SanuarachMine", // Шахта Сануарах
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  {
+    "name": "PinepeakCavernQuest", // Пещера Сосновый Пик (взят квест на бандитов)
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  // Бандиты тир 7 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "BloatedMansGrotto", // Грот Утопленника
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "UtteringHillsCave", // Пещера Говорящие Холмы
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Traitor'sPost", // Пост Предателя
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FussySload", // Привередливый слоад
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Frostmere", // Фростмир
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BurntHouse", // Погорелый дом
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WinterWar", // Зимняя война
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "TelVosPride", // Гордость Тель Воса
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "JaphetsFolly", // Каприз Иафета
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Karthriver", // Картривер
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RootGrotto", // Корнеплодов грот
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MossyBrookCamp", // Лагерь Мшистый Ручей
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AnchorCamp", // Лагерь Якорь
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Permafrost", // Мерзлота
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "PaleWatchtower", // Наблюдательный пост Белобережье
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BentHornCave", // Пещера Гнутый рог
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ColdWaveRefuge", // Убежище Холодная волна
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ReachSlopeMine", // Шахта Склон Предела
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Irkngthand", // Иркнтанд
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WreckOfTheIceRunner", // Место крушения Бегущего по льду
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RiftwealdManor", // Усадьба "Рифтвельд"
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DA02BoethiahShrine", // Часовня Боэтии
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BrokenOarGrotto", // Грот Сломанное Весло
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WolfskullCave", // Пещера Волчий Череп
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir7", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Бандиты тир 9 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "StiflingMine", // Душная шахта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir9", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AshCamp", // Лагерь Пепельный
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir9", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WreckOfTheStridentSquall", // Место крушения Порыва ветра
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir9", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HaknirsShoal", // Отмель Хакнира
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir9", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BrodersGrove", // Роща Бродира
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir9", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DLC2Ashfallow", // Пепельная крепость
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir9", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Bujold'sRetreat", // Пристанище Буйольд
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir9", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Nchardak", // Нчардак
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir9", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "GyldenhulBarrow", // Курган Гильденхул
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir9", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Бандиты тир 10 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "EbonyKeep", // Эбеновая крепость
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Животные ==========================================================================================================================================
+  // Животные тир 2 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "SwindlerDen", // Нора Зеленый Ручей
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CoastalRuins", // Прибрежные руины
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HorkerIsland", // Остров Хоркеров
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Животные тир 3 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "PeryiteAltar", // Алтарь Периайта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CrystaldriftCave", // Кристаллическая пещера
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HoneystrandCave", // Медовая пещера
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "YellowstoneCave", // Пещера Желтый Камень
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "PinepeakCavern", // Пещера Сосновый Пик
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BroodCavern", // Разводная пещера
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ShrineRuins", // Руины святилища
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Животные тир 4 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "SnowDen", // Логово Снега
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RiversideShack", // Речная хижина
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BonechillPass", // Сквозняковый проход
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Животные тир 5 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "RefugeesRest", // Привал Беженцев
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Животные тир 9 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DLC2FrostmoonCrag", // Утес Морозной Луны
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "InconspicuousIsland", // Неприметный островок
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SnowcladRuins", // Заснеженные руины
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Троли =============================================================================================================================================
+  // Троли тир 3 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DeepShadow", // Глубокая Тень
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ShimmermistCave1", // Серозимняя застава
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "StoneFangGorge", // Ущелье Каменный Клык
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Троли тир 4 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "FortRuins", // Руины форта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_17", // Драконий курган 17
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SteepfallBurrow", // Отвесная нора
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SteepfallBurrowDown", // Нижняя Отвесная нора
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "JourneymanNook", // Приют Подмастерья
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WatchtowerRuins", // Руины сторожевой башни
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NorthColdRockPass", // Северный проход Холодных Скал
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SouthColdRockPass", // Южный проход Холодных Скал
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ChillwindDepths4", // Пещера Холодный Берег
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Labyrinthian", // Лабиринтиан
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Троли тир 5 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "Kru'ul'sLair", // Логово Кру'ула
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Троли тир 7 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "RuinsOvergrown", // Заваленные руины
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir7", "Undiscovered_Tir7_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Троли тир 9 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "FrostThicketCamp", // Лагерь Ледяная Чаща
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Trol_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Драугры ===========================================================================================================================================
+  // Драугры тир 3 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "ShrineOfAzuraDungeon", // Святилище Азуры - Подземелье
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir3", "Undiscovered_Tir3_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SoljundsSinkhole", // Логово Сольюнда
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir3", "Undiscovered_Tir3_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_Falkreath", // Драконий курган 6
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir3", "Undiscovered_Tir3_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ShroudHearthBarrow", // Курган Погребальный Огонь
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir3", "Undiscovered_Tir3_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "TaarengravMine", // Шахта Тааренгрев
+    "source":
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir3", "Undiscovered_Tir3_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Драугры тир 5 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "KorvanjundQuest", // Корваньюнд
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HillgrundsTomb", // Гробница Хилгрунда
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BonestrewnCrest", // Скелетный гребень
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "IronbindBarrow", // Курган Железный
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Angarvunde", // Ангарвунд
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "YngvildOverlook", // Высота Йоргрим
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ForsakenCave", // Забытая пещера
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HalldirsCairn", // Каирн Холдира
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_Windhelm", // Драконий курган 7
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_Winterhold", // Драконий курган 3
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Saarthal", // Саартал
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SnowVeilSanctum", // Снежная Завеса - Святилище
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Драугры тир 7 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "Volunruud", // Волундруд
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "GeirmundsHall", // Зал Гейрмунда
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "LostValkygg", // Потерянный Валкигг
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SkytempleRuins", // Руины Небесного храма
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ShrineOfTalosDraugr", // Святилище Талоса
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Folgunthur", // Фолгунтур
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_Dawnstar", // Драконий курган 1
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ReachcliffCave", // Утесная пещера
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ReachcliffCaveQuest", // Утесная пещера
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ReachwaterRock", // Озерный утес
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "StormPeak", // Штормовой Пик
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ArcwindPoint", // Ветровая Дуга
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir7", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Драугры тир 9 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "BroodRuins", // Болотные руины
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir9", "Undiscovered_Tir9_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Yngvild", // Ингвильд
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir9", "Undiscovered_Tir9_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "YngolBarrow", // Курган Ингола
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir9", "Undiscovered_Tir9_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Sunvald", // Сунвальд
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir9", "Undiscovered_Tir9_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DeadMensRespite", // Упокоище
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir9", "Undiscovered_Tir9_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_Morthal", // Драконий курган 4
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir9", "Undiscovered_Tir9_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "YsgramorsTomb", // Гробница Исграмора
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir9", "Undiscovered_Tir9_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RebelsCairn", // Каирн Мятежника
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir9", "Undiscovered_Tir9_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Драугры тир 10 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "ChampionsChamber", // Могила чемпиона
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir10", "Undiscovered_Tir10_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DLC2SaeringsWatch", // Застава Сиринга
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr_Tir10", "Undiscovered_Tir10_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Изгои =============================================================================================================================================
+  // Изгои тир 3 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DragonBridgeOverlook", // Высота Драконий Мост
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir3", "Undiscovered_Tir3_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BrucasLeapRedoubt", // Оплот Прыжок Брюсы
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir3", "Undiscovered_Tir3_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BrokenTowerRedoubt", // Сломанная башня
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir3", "Undiscovered_Tir3_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Изгои тир 6 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "Serpent'sBluffRedoubt", // Оплот Змеиный Утес
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HagRockRedoubt", // Ведьмин оплот
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CrossingCamp", // Лагерь Переправа
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DeepwoodRedoubt", // Лесной оплот
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DeepwoodOutpost", // Лесной оплот - аванпост
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DruadachRedoubt", // Оплот Друадах
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CliffsideRetreat", // Пещера Отвесный Утес
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HagsCure", // Старушечья скала
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FortSungard", // Форт Сангард
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "KolskeggrMine", // Шахта Колскеггр
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonsToothCrater", // Кратер Драконий Зуб
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HeartOfTheReach", // Вечная Топь
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Изгои тир 9 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "Karthspire", // Картспайр
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir9", "Undiscovered_Tir9_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "KarthspireCamp", // Лагерь Картспайр
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir9", "Undiscovered_Tir9_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "EaglesNestCamp", // Лагерь Орлиный Утес
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir9", "Undiscovered_Tir9_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RedEaglesRedoubt", // Оплот Красный Орел
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir9", "Undiscovered_Tir9_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "LostValleyRedoubt", // Оплот Потерянная Долина
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir9", "Undiscovered_Tir9_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SunderedTowers", // Разделенные башни
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir9", "Undiscovered_Tir9_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ChillwindDepths1", // Утес Холодный Ветер
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir9", "Undiscovered_Tir9_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CradleStoneTower", // Башня Кредлстоун
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir9", "Undiscovered_Tir9_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_Markarth", // Драконий курган 5
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Izgoi_Tir9", "Undiscovered_Tir9_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Вампиры ===========================================================================================================================================
+  // Вампиры тир 7 -------------------------------------------------------------------------------------------------------------------------------------
+
+  {
+    "name": "DimhollowCryptQuest", // Крипта Ночной Пустоты
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir7", "Undiscovered_Tir7_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BrokenFangCave", // Пещера Сломанный Клык
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir7", "Undiscovered_Tir7_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MolderingRuins", // Развалины
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir7", "Undiscovered_Tir7_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Mara'sEyePond", // Пруд Глаз Мары
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir7", "Undiscovered_Tir7_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "PinemoonCave", // Пещера Лунный Бор
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir7", "Undiscovered_Tir7_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HaemarsShame", // Пещера Хеймара
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir7", "Undiscovered_Tir7_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DLC1VampireCastle", // Замок Волкихар
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir7", "Undiscovered_Tir7_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Вампиры тир 10 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "RedwaterDen", // Красноводное логово
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MovarthsLair", // Логово Моварта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NorthShriekwindBastion", // Северный бастион Кричащий Ветер
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BloodchillCavern", // Укрытие Старейшин
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SouthShriekwindBastion", // Южный бастион Кричащий Ветер
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BloodthroneKeep", // Кровавый Трон
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Талморцы ==========================================================================================================================================
+  // Талморцы тир 9 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "ShrineofTalos", // Святилище Талоса
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Elf_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NorthwatchKeep", // Северная сторожевая крепость
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Elf_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ThalmorEmbassy", // Талморское посольство
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Elf_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "TheRaggedFlagon", // Крысиная нора
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Elf_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AbandonedLodge", // аброшенный постоялый двор
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Elf_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Серебряная рука ===================================================================================================================================
+  // Серебряная рука тир 6 -----------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "GallowsRock", // Висельная скала
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["SerebRuka_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_9", // Драконий курган 9
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["SerebRuka_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Фалмеры ===========================================================================================================================================
+  // Фалмеры тир 5 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "FrostflowLighthouse", // Инеевый маяк
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ShimmermistCave3", // Закатная расселина
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SightlessPit", // Неприметное убежище
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "LostEchoCave", // Пещера Заблудшее Эхо
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "StillbornCave", // Пещера Мертворожденного
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ChillwindDepths2", // Провал Сквозняков
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DarkwaterPassage", // Черный проход
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Liar'sRetreat", // Пристанище Лжеца
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Фалмеры тир 8 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "Kagrenzel", // Кагрензел
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir8", "Undiscovered_Tir8_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Gloomreach", // Мрачный Предел
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir8", "Undiscovered_Tir8_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "TolvaldsCave", // Пещера Толвальда
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir8", "Undiscovered_Tir8_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Фалмеры тир 10 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "ForgottenVale", // Забытая долина
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Скелеты ===========================================================================================================================================
+  // Скелеты тир 2 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "NecromancerAltarFalkreath", // Алтарь некроманта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NecromancerAltarWhiterun", // Алтарь некромантов
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HallOfTheDeadWhiterun", // Зал мертвых (Вайт)
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BurialSite", // Захоронение
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SepulchralAltar", // Замогильный алтарь
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HamvirsRest", // Привал Хамвира
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FalkreathWatchtower", // Сторожевая башня
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+    {
+    "name": "TheRitualStone", // Камень Ритуала
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Скелеты тир 4 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "ForgottenAltar", // Забытый Алтарь
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HallOfTheDeadSolitude", // Зал мертвых (Сол)
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FrostRuins", // Морозные руины
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NorthwindMine", // Шахта Северный Ветер
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NorthwindSummit", // Вершина Северный Ветер
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Жрецы =============================================================================================================================================
+  // Жрецы тир 10 --------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DragonMound_Priest", // Драконий курган 2
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Jrec_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Valthume", // Валтум
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Jrec_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Ragnvald", // Рагнвальд
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Jrec_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HighGateRuins", // Руины Высоких Врат
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Jrec_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Forelhost", // Форелхост
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Jrec_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Shearpoint", // Двуглавый пик
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Jrec_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Великаны ==========================================================================================================================================
+  // Великаны тир 4 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "TumbleArchPass", // Арочный перевал
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BleakwindBasin", // Водоем Холодный Ветер
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BlizzardRest", // Дом Буранов
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SleepingTreeCamp", // Лагерь Сонное Дерево
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BrokenLimbCamp", // Лагерь Сломанная Нога
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SteamcragCamp", // Паровой лагерь
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SecundasKiss", // Поцелуй Секунды
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RedRoadPass", // Красный перевал
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "GiantsGrove", // Роща Великанов
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CradlecrushRock", // Седловая скала
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "GuldunRock", // Скала Гулдун
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "TalkingStoneCamp", // Лагерь Говорящий Камень
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "StonehillBluff", // Утес Каменный Холм
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Великаны тир 6 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "RagnokLair", // Логово Рагнока
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Velikan_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Драконы ===========================================================================================================================================
+  // Драконы тир 5 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DragonMound_FalkreathQuest", // Драконий курган 6
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NorthwindSummitQuest", // Вершина Северный Ветер
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_8", // Драконий курган 8
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_16", // Драконий курган 16
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_21", // Драконий курган 21
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_15", // Драконий курган 15
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Драконы тир 8 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DragonMound_DawnstarQuest", // Драконий курган 1
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonsToothCraterQuest", // Кратер Драконий Зуб
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "TongueWoodlookoutQuest", // Высота Откушенный Язык 
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_19", // Драконий курган 19
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_13", // Драконий курган 13
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_14", // Драконий курган 14
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_20", // Драконий курган 20
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Драконы тир 10 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DragonMound_10Quest", // Драконий курган 10
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_MarkarthQuest", //  Драконий курган 5
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_MorthalQuest", //  Драконий курган 4
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AutumnwatchTowerQuest", // Осенняя сторожевая башня
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ThroatoftheWorld", // Глотка Мира
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_11", // Драконий курган 11
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ArcwindPointQuest", // Ветровая Дуга
+    "source": 
+  {
+   "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DragonMound_12", // Драконий курган 12
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Drakon_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Пауки =============================================================================================================================================
+  // Пауки тир 2 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DragonMound_18", // Драконий курган 18
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Payk_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Пауки тир 4 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DarkfallCave", // Драконий курган 18
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Payk_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Пауки тир 5 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "BronzeWaterCave", // Пещера Бронзовая Вода
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Payk_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Некроманты ========================================================================================================================================
+  // Некроманты тир 6 ----------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "Hobscave", // Пещера Хоба
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "IlinaltasDeep", // Глубины Илиналты
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NorthSnaplegGap", // Северный Ноголомный проход
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SouthFringeSanctum", // Южное святилище
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SouthSnaplegGap", // Южный Ноголомный проход
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "TongueWoodlookout", // Высота Откушенный Язык
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Ustengrav", // Устенгрев
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ShrineOfAkatosh", // Святилище Акатоша
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SacrificialAltar", // Жертвенник
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RitualSite", // Ритуальное место
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SaMMMcVaPOIFallForest24", // Алтарь некроманта Рифта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Некроманты тир 10 ----------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "FortSnowhawk", // Форт Сноухок
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SunderstoneGorge", // Разделенное ущелье
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Nekromant_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Маги ==============================================================================================================================================
+  // Маги тир 6 ----------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "WitchesFestival", // Ведьмино гнездо
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "GlenmorilCoven", // Гленморильский ковен
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DarklightTower", // Башня Светотьмы
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DrelasCottage", // Дом Дреласа
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BoulderfallCave", // Камнепадная пещера
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ChillwindDepths3", // Морозная пещера
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Morvunskar", // Морвунскар
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CragwallowSlope", // Откос Крегвеллоу
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WitchmistGrove", // Роща Ведьмин Туман
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FortAmol", // Форт Амол
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FortKastav", // Форт Кастав
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Harmugstahl", // Хармугстал
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "NightcallerTemple", // Храм Призывателей Ночи
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SnaplegCave", // Щелкающая пещера
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "FellglowKeepMap", // Крепость Феллглоу
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DLC1Ruunvald", // Раскопки Рунвальда
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Маги тир 10 ----------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "WolfskullCaveQuest", // Пещера Волчий Череп
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AltarOfThrond", // Алтарь Тронда
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Ворожеи ===========================================================================================================================================
+  // Ворожеи тир 6 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "WitchesCoven", // Ковен
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RavensScar", // Воронья нора
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AniseCabin", // Одинокая скала
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MistwatchDungeon", // Туманная Застава - Подземелье
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag_Tir6", "Undiscovered_Tir6_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Сприганы ==========================================================================================================================================
+  // Сприганы тир 2 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "EvergreenGrove", // Вечнозеленая роща
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir2", "Undiscovered_Tir2_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MossyGlenCave", // Мшистая пещера
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir2", "Undiscovered_Tir2_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BurntCart", // Сгоревшая повозка
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir2", "Undiscovered_Tir2_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ShadowTower", // Теневая башня
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir2", "Undiscovered_Tir2_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RoadsideRuins", // Придорожные руины
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir2", "Undiscovered_Tir2_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AncestorGlade", // Поляна Предков
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir2", "Undiscovered_Tir2_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Сприганы тир 3 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "ClearpinePond", // Пруд Чистых Сосен
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir3", "Undiscovered_Tir3_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ClearwaterLake", // Чистое озеро
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir3", "Undiscovered_Tir3_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AutumnshadeClearing", // Осенняя поляна
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir3", "Undiscovered_Tir3_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ShadowgreenCavern", // Пещера Зеленая Тень
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir3", "Undiscovered_Tir3_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BloatedMansGrottoQuest", // Грот Утопленника
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir3", "Undiscovered_Tir3_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  }, 
+  {
+    "name": "DragonMound_10", // Драконий курган 10
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir3", "Undiscovered_Tir3_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Сприганы тир 4 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "ShroudedHearth", // Скрытая роща
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir4", "Undiscovered_Tir4_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DimhollowCrypt", // Крипта Ночной Пустоты
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Animal_Tir4", "Undiscovered_Tir4_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Сприганы тир 6 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "EldergleamSanctuary", // Святилище Великого Древа
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir6", "Undiscovered_Tir6_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Сприганы тир 9 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "NirnrootIsland", // Остров Корней Нирна
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir9", "Undiscovered_Tir9_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "HeadwatersofHarstrad", // Верховье Харстрада
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Sprigan_Tir9", "Undiscovered_Tir9_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Риклинги ==========================================================================================================================================
+  // Риклинги тир 9 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "CastleKarstaagRuins", // Руины замка Карстааг
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Frossel", // Фроссель
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MoesringPass", // Проход Моэсринг
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BrokenTuskMine", // Шахта Сломанный Клык
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "GlacialCave", // Ледяная пещера
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ThirskMeadHall", // Медовый зал Тирска
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BristlebackCave", // Пещера Щетиноспин
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CastleKarstaagCaverns", // Пещеры замка Карстаг
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "UnityCamp", // Лагерь Единение
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WayfarersCamp", // Стоянка путника
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CoastalCamp", // Лагерь Прибрежный
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "PushchaCamp", // Лагерь Пуща
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Бесы ==============================================================================================================================================
+  // Бесы тир 3 ----------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "GreywaterGrotto", // Грот Серая Вода
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bes_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WidowsWatchRuins", // Руины Вдовьей заставы
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bes_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ShorsWatchtower", // Сторожевая башня Шора
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bes_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WeynonStones", // Камни Вейнон
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bes_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DBSanctuaryMapMarker", // Убежище Темного Братства
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bes_Tir3", "Undiscovered_Tir3_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Бесы тир 5 ----------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "WhitePineTower", // Башня Белая Сосна
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bes_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "LostProspectMine", // Шахта Потерянный Шанс
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bes_Tir5", "Undiscovered_Tir5_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Бесы тир 7 ----------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "KjenstagRuins", // Руины Кьенстаг
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bes_Tir7", "Undiscovered_Tir7_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Атронахи ==========================================================================================================================================
+  // Атронахи тир 2 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "SerpentStone", // Камень Змея
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Atronah_Tir2", "Undiscovered_Tir2_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Атронахи тир 4 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "PrisonRuins", // Тюремные руины
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Atronah_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Cold", // Холодная
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Atronah_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "MountAnthor", // Гора Антор
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Atronah_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "StatueToMeridia", // Статуя Меридии
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Atronah_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AncientsAscent", // Пик Древних
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Atronah_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "EldergleamPass", // Ход Древних
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Atronah_Tir4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Атронахи тир 5 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "FrostGorge", // Морозное ущелье
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Atronah_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "AshenPlace", // Пепелище
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Atronah_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RkundRuins", // Руины Ркунда
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Atronah_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SkybornAltar", // Алтарь Рожденного Небом
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Atronah_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Призраки ==========================================================================================================================================
+  // Призраки тир 4 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "AbandonedPrison", // Заброшенная тюрьма
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Prizrak_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Призраки тир 7 ------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "WreckoftheBrinehammer", // Место крушения Соленого молота
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Prizrak_Tir7", "Undiscovered_Tir7_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Хермиус Мора ======================================================================================================================================
+  // Хермиус Мора тир 10 -------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DLC2StoneBeast", // Камень Зверя
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Hermeus_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DLC2StoneEarth", // Камень Земли
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Hermeus_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DLC2StoneSun", // Камень Солнца
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Hermeus_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DLC2StoneWater", // Камень Воды
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Hermeus_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DLC2StoneWind", // Камень Ветра
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Hermeus_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BlackBookTheHiddenTwilight", // Черная книга: Скрытый сумрак
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Hermeus_Tir10", "Undiscovered_Tir10_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Крабы =============================================================================================================================================
+  // Крабы тир 1 ---------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "NorthshoreLanding", // Северная пристань
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Krab_Tir1", "Undiscovered_Tir1_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CrabFall", // Крабопад
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Krab_Tir1", "Undiscovered_Tir1_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Двемеры ===========================================================================================================================================
+  // Двемеры тир 5 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "MS04Avanchnzel", // Аванчнзел
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Dvemer_Tir5", "Undiscovered_Tir5_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Двемеры тир 8 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "ReachwindEyrie", // Гнездо Ветров Предела
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Dvemer_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DeepFolkCrossing", // Переправа Глубинного Народа
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Dvemer_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DwarvenStorehouse", // Кладовая гномов
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Dvemer_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Bthardamz", // Бтардамз
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Dvemer_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  // Двемеры тир 10 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "RuinsofBthalftQuest", // Руины Бталфта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Dvemer_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  // Орки ==============================================================================================================================================
+  // Орки тир 2 ----------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "BilegulchMine", // Желчная шахта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Orc_Tir2", "Undiscovered_Tir2_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Орки тир 4 ----------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "BrokenTuskKeep", // Крепость Треснувший Бивень
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Orc_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RiftenWatchtower", // Сторожевая башня Рифта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Orc_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Дреморы ===========================================================================================================================================
+  // Дреморы тир 6 -------------------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DagonShrine", // Святилище Мерунеса Дагона
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Dremora_Tir6", "Undiscovered_Tir6_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Порождения пепла ==================================================================================================================================
+  // Порождения пепла тир 4 ----------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "DLC2RRAttiusFarm", // Старая ферма Аттия
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Pepel_Tir4", "Undiscovered_Tir4_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Порождения пепла тир 9 ----------------------------------------------------------------------------------------------------------------------------
+  {
+    "name": "Hrodulf'sHouse", // Дом Хродульфа
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Pepel_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DLC2Frostmoth", // Форт Морозного Мотылька
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Pepel_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DLC2HightpointTower", // Вершинная башня
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Pepel_Tir9", "Undiscovered_Tir9_1.0"]
+  },
+    "scale": 1.0,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+
+  // Двойные ===========================================================================================================================================
+  {
+    "name": "ShearpointQuest", // Двуглавый пик
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Jrec-Drakon_Tir10-10", "Undiscovered_Tir10_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "DLC2SaeringsWatchQuest", // Застава Сиринга
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr-Drakon_Tir10-10", "Undiscovered_Tir10_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "IrkngthandQuest", // Иркнтанд
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer-Dvemer_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Arkngthamz", // Аркнтамз
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer-Dvemer_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ShimmermistCave2", // Пещера Мерцающий Туман
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer-Dvemer_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Mzulft", // Мзулфт
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer-Dvemer_Tir8", "Undiscovered_Tir8_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Alftand", // Альфтанд -- Черный Предел
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Falmer-Dvemer_Tir10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "CronvangrCave", // Пещера Кронвангр
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Vampir-Payk_Tir7", "Undiscovered_Tir7_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Crabber'sshack", // Хибара краболова
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Krab-Mag_Tir8", "Undiscovered_Tir8_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Kagrumez", // Кагрумез
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit-Dvemer_Tir9-10", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Raldbthar", // Ральдбтхар
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit-Falmer-Dvemer_Tir4-8-8", "Undiscovered_Tir4_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Mzinchaleft", // Мзинчалефт
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit-Falmer-Dvemer_Tir7-8-8", "Undiscovered_Tir7_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BloodskalBarrow", // Курган Бладскал
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit-Jrec_Tir9-10", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SilverdriftLair", // Серебряное логово
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit-Jrec_Tir4-10", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Volskygge", // Вольскигге
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit-Jrec_Tir7-10", "Undiscovered_Tir7_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "BleakFallsBarrow", // Ветреный пик
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Bandit-Draugr_Tir2-3", "Undiscovered_Tir2_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Fahlbtharz", // Фалбтарз
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling-Dvemer_Tir9-10", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "ValuableCargo", // Ценный груз
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Mag-Bandit_Tir6-7", "Undiscovered_Tir7_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Ansilvund", // Ансилвунд
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr-Mag_Tir5-6", "Undiscovered_Tir6_1.5"]
+  },
+    "scale": 1.5,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Rannveig'sFast", // Обитель Раннвейг ---
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Prizrak-Mag_Tir4-4", "Undiscovered_Tir4_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "TempleofMiraak", // Храм Мирака
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Draugr-Hermeus_Tir10-10", "Undiscovered_Tir10_1.5"]
+  },
+    "scale": 1.5,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Dustman'sCairn", // Древний каирн
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["SerebrRuka-Draugr_Tir6-5", "Undiscovered_Tir5_1.3"]
+  },
+    "scale": 1.3,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "RavenRockMine", // Шахта Вороньей Скалы
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Jrec-Hermeus_Tir10-10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "WhiteRidgeBarrow", // Курган Белого Хребта
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Jrec-Hermeus_Tir10-10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "KolbjornBarrow", // Курган Колбьорн
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Jrec-Hermeus_Tir10-10", "Undiscovered_Tir10_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "Benkongerike", // Бенконгерик
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Rikling-Hermeus_Tir9-10", "Undiscovered_Tir9_1.1"]
+  },
+    "scale": 1.1,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  },
+  {
+    "name": "SoulCairnMarker", // Каирн Душ
+    "source": 
+  {
+    "path": "Resources\\STBMapMarkers.swf",
+    "exportNames": ["Skelet-Drakon_Tir10-10", "Undiscovered_Tir10_1.2"]
+  },
+    "scale": 1.2,
+    "discoveryMusic": "MUSDiscoveryGeneric"
+  }
+]
+}

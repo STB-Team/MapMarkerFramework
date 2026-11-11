@@ -1,4 +1,5 @@
 #include "ImportManager.h"
+#include "IconMode.h"
 #include "MapConfigLoader.h"
 #include "Patch.h"
 #include "Settings.h"
@@ -20,13 +21,14 @@ void ImportManager::AddCustomIcon(
 	const std::string& a_exportName,
 	const std::string& a_exportNameUndiscovered,
 	float a_iconScale,
-	bool a_hideFromHUD)
+	bool a_hideFromHUD,
+	bool a_revealUndiscovered)
 {
 	auto path = std::filesystem::path{ "MapMarkers"sv } / a_source;
 	auto pathStr = path.string();
 
 	_customIcons.push_back(
-		{ pathStr, a_exportName, a_exportNameUndiscovered, a_iconScale, a_hideFromHUD });
+		{ pathStr, a_exportName, a_exportNameUndiscovered, a_iconScale, a_hideFromHUD, a_revealUndiscovered });
 }
 
 void ImportManager::HideFromHUD(RE::MARKER_TYPE a_markerType)
@@ -115,6 +117,12 @@ void ImportManager::SetupHUDMenu(RE::GFxMovieView* a_movieView)
 
 	std::int32_t undiscoveredMarkers = 0;
 	compassMarker->GetLabeledFrame("UndiscoveredMarkers", undiscoveredMarkers, false);
+
+	if (IconMode::IsPrepared(MenuType::HUD, compassMarker)) {
+		a_movieView->SetVariableDouble(
+			"HUDMovieBaseInstance.CompassMarkerUndiscovered", undiscoveredMarkers + 1);
+		return;
+	}
 
 	std::size_t undiscoveredOffset = static_cast<size_t>(undiscoveredMarkers) - locationMarkers;
 	std::size_t insertPos = static_cast<size_t>(undiscoveredMarkers) - 1;
@@ -228,6 +236,7 @@ void ImportManager::SetupMapMenu(RE::GFxMovieView* a_movieView)
 		logger::error("SkyUI Map is not installed, can't add map markers"sv);
 		return;
 	}
+	const bool prepared = IconMode::IsPrepared(MenuType::Map, mapMarker);
 
 	std::int32_t discovered = 0;
 	mapMarker->GetLabeledFrame("Discovered", discovered, false);
@@ -259,7 +268,7 @@ void ImportManager::SetupMapMenu(RE::GFxMovieView* a_movieView)
 	}
 
 	auto movieDataDef = movieDefImpl->bindTaskData->movieDataResource;
-	if (movieDataDef) {
+	if (movieDataDef && !prepared) {
 		for (std::uint32_t index = 0; index < _baseIndex; index++) {
 			if (index >= 60 && index < 67)
 				continue;
@@ -268,7 +277,7 @@ void ImportManager::SetupMapMenu(RE::GFxMovieView* a_movieView)
 			FixDoorMarker(movieDataDef, mapMarker, undiscovered + index);
 		}
 	}
-	else {
+	else if (!movieDataDef) {
 		logger::debug("Failed to apply door transparency fix"sv);
 	}
 
@@ -280,11 +289,12 @@ void ImportManager::SetupMapMenu(RE::GFxMovieView* a_movieView)
 		};
 
 		std::int32_t newFrames = static_cast<std::int32_t>(_customIcons.size());
-		std::size_t undiscoveredOffsetNew = undiscoveredOffset + newFrames;
+		std::size_t undiscoveredOffsetNew = undiscoveredOffset + (prepared ? 0 : newFrames);
 
-		importData.InsertCustomIcons(_customIcons, insertPos, undiscoveredOffset, _baseIndex);
-
-		*(mapMarker->frameLabels.Get("Undiscovered")) += newFrames;
+		if (!prepared) {
+			importData.InsertCustomIcons(_customIcons, insertPos, undiscoveredOffset, _baseIndex);
+			*(mapMarker->frameLabels.Get("Undiscovered")) += newFrames;
+		}
 
 		logger::trace("Updating UNDISCOVERED_OFFSET to {}"sv, undiscoveredOffsetNew);
 

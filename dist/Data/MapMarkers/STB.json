@@ -1,0 +1,1948 @@
+{
+  "mapMarkers": [
+    {
+      "refID": "Skyrim.esm|162CE", // Whiterun
+      "iconName": "WhiterunTP"
+    },
+    {
+      "refID": "Skyrim.esm|4D0F4", // Solitude
+      "iconName": "SolitudeTP"
+    },
+    {
+      "refID": "Skyrim.esm|38436", // Windhelm
+      "iconName": "WindhelmTP"
+    },
+    {
+      "refID": "Skyrim.esm|1C38A", // Markarth
+      "iconName": "MarkarthTP"
+    },
+    {
+      "refID": "Skyrim.esm|1C390", // Riften
+      "iconName": "RiftenTP"
+    },
+    {
+      "refID": "Skyrim.esm|17760", // Falkreath
+      "iconName": "FalkreathTP"
+    },
+    {
+      "refID": "Skyrim.esm|1773A", // Dawnstar
+      "iconName": "DawnstarTP"
+    },
+    {
+      "refID": "Skyrim.esm|177B0", // Morthal
+      "iconName": "MorthalTP"
+    },
+    {
+      "refID": "Skyrim.esm|177EF", // Winterhold
+      "iconName": "WinterholdTP"
+    },
+    {
+      "refID": "Skyrim.esm|162A4", // Riverwood
+      "iconName": "RiverwoodTP"
+    },
+    {
+      "refID": "Skyrim.esm|17791", // Ivarstead
+      "iconName": "IvarsteadTP"
+    },
+    {
+      "refID": "Skyrim.esm|177CC", // Rorikstead
+      "iconName": "RoriksteadTP"
+    },
+    {
+      "refID": "Skyrim.esm|17753", // Dragon Bridge
+      "iconName": "DragonBridgeTP"
+    },
+    {
+      "refID": "Skyrim.esm|1779A", // Karthwasten
+      "iconName": "KarthwastenTP"
+    },
+    {
+      "refID": "Skyrim.esm|177D7", // Shor's Stone
+      "iconName": "ShorsStoneTP"
+    },
+    {
+      "refID": "Skyrim.esm|177C3", // Old Hroldan Inn
+      "iconName": "OldHroldanInnTP"
+    },
+    {
+      "refID": "Skyrim.esm|17732", // Darkwater Crossing
+      "iconName": "DarkwaterCrossingTP"
+    },
+    {
+      "refID": "Skyrim.esm|16370", // Half-Moon Mill
+      "iconName": "HalfMoonMillTP"
+    },
+    {
+      "refID": "Skyrim.esm|1636D", // Mixwater Mill
+      "iconName": "MixwaterMillTP"
+    },
+    {
+      "refID": "Skyrim.esm|16382", // Solitude Sawmill
+      "iconName": "SolitudeSawmillTP"
+    },
+    {
+      "refID": "Skyrim.esm|1634F", // Heartwood Mill
+      "iconName": "HeartwoodMillTP"
+    },
+    {
+      "refID": "Skyrim.esm|1623E", // Dushnikh Yal
+      "iconName": "DushnikhYalTP"
+    },
+    {
+      "refID": "Skyrim.esm|1626F", // Largashbur
+      "iconName": "LargashburTP"
+    },
+    {
+      "refID": "Skyrim.esm|16287", // Mor Khazgur
+      "iconName": "MorKhazgurTP"
+    },
+    {
+      "refID": "Skyrim.esm|1628D", // Narzulbur
+      "iconName": "NarzulburTP"
+    },
+    {
+      "refID": "Skyrim.esm|16352", // High Hrothgar
+      "iconName": "HighHrothgarTP"
+    },
+    {
+      "refID": "Skyrim.esm|0C44AF", // Подкаменная крепость
+      "iconName": "UnderstoneKeepTP"
+    },
+    {
+      "refID": "Skyrim.esm|0C44B3", // Королевский дворец
+      "iconName": "PalaceoftheKingsTP"
+    },
+    {
+      "refID": "Skyrim.esm|0C44AD", // Драконий Предел
+      "iconName": "DragonsreachTP"
+    },
+    {
+      "refID": "Skyrim.esm|0C44B1", // Крепость Миствейл
+      "iconName": "MistveilKeepTP"
+    },
+    {
+      "refID": "Skyrim.esm|0B6CDF",
+      "iconName": "EmbershardMine" // Факельная Шахта
+    },
+    {
+      "refID": "Skyrim.esm|04781E",
+      "iconName": "BannermistTower" // Башня Баннермист
+    },
+    {
+      "refID": "Skyrim.esm|015D4D",
+      "iconName": "Swindler'sDen" // Логово Плута
+    },
+    {
+      "refID": "Skyrim.esm|0162C9",
+      "iconName": "ValtheimTowers" // Башни Валтейм
+    },
+    {
+      "refID": "Skyrim.esm|0162B4",
+      "iconName": "SilentMoonsCamp" // Лагерь Тихих Лун
+    },
+    {
+      "refID": "Skyrim.esm|016261",
+      "iconName": "HaltedStreamCamp" // Лагерь Чистых Родников
+    },
+    {
+      "refID": "Skyrim.esm|0162CD",
+      "iconName": "WhiteRiverWatch" // Приречная застава 
+    },
+    {
+      "refID": "Skyrim.esm|01629F",
+      "iconName": "Redoran'sRetreat" // Приют Редорана
+    },
+    {
+      "refID": "Skyrim.esm|01624A",
+      "iconName": "FortGreymoor" // Форт Греймур
+    },
+    {
+      "refID": "Skyrim.esm|016291",
+      "iconName": "Orotheim" // Оротхейм
+    },
+    {
+      "refID": "Skyrim.esm|0162A7",
+      "iconName": "RobbersGorge" // Теснина Грабителя
+    },
+    {
+      "refID": "Skyrim.esm|08E03C",
+      "iconName": "KnifepointRidge" // Хребет Острие Ножа
+    },
+    {
+      "refID": "Skyrim.esm|016275",
+      "iconName": "BilegulchMine" // Желчная шахта
+    },
+    {
+      "refID": "Skyrim.esm|04B6EB",
+      "iconName": "NorthernSkyboundWatchPass" // Северная горная застава
+    },
+    {
+      "refID": "Skyrim.esm|0479BB",
+      "iconName": "SouthernSkyboundWatchPass" // Южная горная застава
+    },
+    {
+      "refID": "Skyrim.esm|016295",
+      "iconName": "Pinewatch" // Сосновая застава
+    },
+    {
+      "refID": "Skyrim.esm|0C2EF6",
+      "iconName": "SnowpointBeacon" // Сигнальная башня Снежная
+    },
+    {
+      "refID": "Skyrim.esm|080F13",
+      "iconName": "StonyCreekCave" // Пещера Каменный Ручей
+    },
+    {
+      "refID": "Skyrim.esm|016286",
+      "iconName": "Mistwatch" // Туманная застава
+    },
+    {
+      "refID": "Skyrim.esm|016273",
+      "iconName": "LostKnifeHideout" // Убежище Потерянный Нож
+    },
+    {
+      "refID": "Skyrim.esm|01623B",
+      "iconName": "DriftshadeSanctuary" // Дрифтшейд - Приют
+    },
+    {
+      "refID": "Skyrim.esm|01624C",
+      "iconName": "FortFellhammer" // Форт Феллхаммер
+    },
+    {
+      "refID": "Skyrim.esm|017780",
+      "iconName": "Helgen" // Хелген
+    },
+    {
+      "refID": "Skyrim.esm|016250",
+      "iconName": "FortNeugrad" // Форт Нойград
+    },
+    {
+      "refID": "Skyrim.esm|01625B",
+      "iconName": "BrokenTuskKeep" // Крепость Треснувший Бивень
+    },
+    {
+      "refID": "Skyrim.esm|03F510",
+      "iconName": "FortHraggstad" // Форт Храгстад
+    },
+    {
+      "refID": "Skyrim.esm|0162B0",
+      "iconName": "OrphanTear" // Слеза Сироты
+    },
+    {
+      "refID": "Skyrim.esm|0EF543",
+      "iconName": "IronbindRetreat" // Железное убежище
+    },
+    {
+      "refID": "Skyrim.esm|01624D",
+      "iconName": "FortGreenwall" // Форт Гринвол
+    },
+    {
+      "refID": "Skyrim.esm|0162C6",
+      "iconName": "TrevaWatch" // Тревская застава
+    },
+    {
+      "refID": "Skyrim.esm|0D3930",
+      "iconName": "RiftenWatchtower" // Сторожевая башня Рифта
+    },
+    {
+      "refID": "Skyrim.esm|0A7CE5",
+      "iconName": "BlackBriarLodge" // Резиденция Черный Вереск
+    },
+    {
+      "refID": "Skyrim.esm|01628F",
+      "iconName": "Nilheim" // Нилхейм
+    },
+    {
+      "refID": "Skyrim.esm|016219",
+      "iconName": "BrokenHelmHollow" // Лощина Сломанный Шлем
+    },
+    {
+      "refID": "Skyrim.esm|016242",
+      "iconName": "FaldarsTooth" // Зуб Фалдара
+    },
+    {
+      "refID": "Skyrim.esm|0B23A7",
+      "iconName": "ObservationPost" // Наблюдательный пост
+    },
+    {
+      "refID": "Skyrim.esm|01624B",
+      "iconName": "FortDunstad" // Форт Дунстад
+    },
+    {
+      "refID": "Skyrim.esm|0E0F47",
+      "iconName": "LordStone" // Камень Лорда
+    },
+    {
+      "refID": "Skyrim.esm|0162C8",
+      "iconName": "UtteringHillsCave" // Пещера Говорящие Холмы
+    },
+    {
+      "refID": "Skyrim.esm|0C2EE9",
+      "iconName": "Traitor'sPost" // Пост Предателя
+    },
+    {
+      "refID": "Skyrim.esm|07BC2D",
+      "iconName": "FussySload" // Привередливый слоад
+    },
+    {
+      "refID": "Skyrim.esm|0162C2",
+      "iconName": "Frostmere" // Фростмир
+    },
+    {
+      "refID": "Skyrim.esm|0162AF",
+      "iconName": "WinterWar" // Зимняя война
+    },
+    {
+      "refID": "Skyrim.esm|0162AE",
+      "iconName": "TelVosPride" // Гордость Тель Воса
+    },
+    {
+      "refID": "Skyrim.esm|016245",
+      "iconName": "JaphetsFolly" // Каприз Иафета
+    },
+    {
+      "refID": "Skyrim.esm|0ECF4F",
+      "iconName": "RiversideShack" // Речная хижина
+    },
+    {
+      "refID": "Skyrim.esm|0162BB",
+      "iconName": "SoljundsSinkhole" // Логово Сольюнда
+    },
+    {
+      "refID": "Skyrim.esm|0162CB",
+      "iconName": "HillgrundsTomb" // Гробница Хилгрунда
+    },
+    {
+      "refID": "Skyrim.esm|0162B6",
+      "iconName": "BonestrewnCrest" // Скелетный гребень
+    },
+    {
+      "refID": "Skyrim.esm|03F076",
+      "iconName": "IronbindBarrow" // Курган Железный
+    },
+    {
+      "refID": "Skyrim.esm|015D51",
+      "iconName": "Angarvunde" // Ангарвунд
+    },
+    {
+      "refID": "Skyrim.esm|0C33FF",
+      "iconName": "YngvildOverlook" // Высота Йоргрим
+    },
+    {
+      "refID": "Skyrim.esm|016248",
+      "iconName": "ForsakenCave" // Забытая пещера
+    },
+    {
+      "refID": "Skyrim.esm|016260",
+      "iconName": "HalldirsCairn" // Каирн Холдира
+    },
+    {
+      "refID": "Skyrim.esm|016264",
+      "iconName": "Volunruud" // Волундруд
+    },
+    {
+      "refID": "Skyrim.esm|016255",
+      "iconName": "GeirmundsHall" // Зал Гейрмунда
+    },
+    {
+      "refID": "Skyrim.esm|0EAA63",
+      "iconName": "LostValkygg" // Потерянный Валкигг
+    },
+    {
+      "refID": "Skyrim.esm|0EF0AE",
+      "iconName": "SkytempleRuins" // Руины Небесного храма
+    },
+    {
+      "refID": "Skyrim.esm|016246",
+      "iconName": "Folgunthur" // Фолгунтур
+    },
+    {
+      "refID": "Skyrim.esm|0162D3",
+      "iconName": "Yngvild" // Ингвильд
+    },
+    {
+      "refID": "Skyrim.esm|016271",
+      "iconName": "YngolBarrow" // Курган Ингола
+    },
+    {
+      "refID": "Skyrim.esm|01622E",
+      "iconName": "DeadMensRespite" // Упокоище
+    },
+    {
+      "refID": "Skyrim.esm|0B2393",
+      "iconName": "DragonBridgeOverlook" // Высота Драконий Мост
+    },
+    {
+      "refID": "Skyrim.esm|01621C",
+      "iconName": "BrucasLeapRedoubt" // Оплот Прыжок Брюсы
+    },
+    {
+      "refID": "Skyrim.esm|01621A",
+      "iconName": "BrokenTowerRedoubt" // Сломанная башня
+    },
+    {
+      "refID": "Skyrim.esm|0162CC",
+      "iconName": "Serpent'sBluffRedoubt" // Оплот Змеиный Утес
+    },
+    {
+      "refID": "Skyrim.esm|01625E",
+      "iconName": "HagRockRedoubt" // Ведьмин оплот
+    },
+    {
+      "refID": "Skyrim.esm|01622F",
+      "iconName": "DeepwoodRedoubt" // Лесной оплот
+    },
+    {
+      "refID": "Skyrim.esm|01623C",
+      "iconName": "DruadachRedoubt" // Оплот Друадах
+    },
+    {
+      "refID": "Skyrim.esm|016213",
+      "iconName": "CliffsideRetreat" // Пещера Отвесный Утес
+    },
+    {
+      "refID": "Skyrim.esm|01622D",
+      "iconName": "HagsCure" // Старушечья скала
+    },
+    {
+      "refID": "Skyrim.esm|016252",
+      "iconName": "FortSungard" // Форт Сангард
+    },
+    {
+      "refID": "Skyrim.esm|02051D",
+      "iconName": "KolskeggrMine" // Шахта Колскеггр
+    },
+    {
+      "refID": "Skyrim.esm|01626C",
+      "iconName": "Karthspire" // Картспайр
+    },
+    {
+      "refID": "Skyrim.esm|0F6698",
+      "iconName": "KarthspireCamp" // Лагерь Картспайр
+    },
+    {
+      "refID": "Skyrim.esm|01623D",
+      "iconName": "RedEaglesRedoubt" // Оплот Красный Орел
+    },
+    {
+      "refID": "Skyrim.esm|016274",
+      "iconName": "LostValleyRedoubt" // Оплот Потерянная Долина
+    },
+    {
+      "refID": "Skyrim.esm|0B6295",
+      "iconName": "SunderedTowers" // Разделенные башни
+    },
+    {
+      "refID": "Skyrim.esm|0BB47C",
+      "iconName": "ChillwindDepths1" // Утес Холодный Ветер
+    },
+    {
+      "refID": "Skyrim.esm|0B23A1",
+      "iconName": "CradleStoneTower" // Башня Кредлстоун
+    },
+    {
+      "refID": "Skyrim.esm|016218",
+      "iconName": "BrokenFangCave" // Пещера Сломанный Клык
+    },
+    {
+      "refID": "Skyrim.esm|016254",
+      "iconName": "GallowsRock" // Висельная скала
+    },
+    {
+      "refID": "Skyrim.esm|016253",
+      "iconName": "FrostflowLighthouse" // Инеевый маяк
+    },
+    {
+      "refID": "Skyrim.esm|080E56",
+      "iconName": "Kagrenzel" // Кагрензел
+    },
+    {
+      "refID": "Skyrim.esm|01623F",
+      "iconName": "ShimmermistCave3" // Закатная расселина
+    },
+    {
+      "refID": "Skyrim.esm|0162B3",
+      "iconName": "SightlessPit" // Неприметное убежище
+    },
+    {
+      "refID": "Skyrim.esm|0AF89B",
+      "iconName": "LostEchoCave" // Пещера Заблудшее Эхо
+    },
+    {
+      "refID": "Skyrim.esm|0162C0",
+      "iconName": "StillbornCave" // Пещера Мертворожденного
+    },
+    {
+      "refID": "Skyrim.esm|016220",
+      "iconName": "ChillwindDepths2" // Провал Сквозняков
+    },
+    {
+      "refID": "Skyrim.esm|01622C",
+      "iconName": "DarkwaterPassage" // Черный проход
+    },
+    {
+      "refID": "Skyrim.esm|016258",
+      "iconName": "Gloomreach" // Мрачный Предел
+    },
+    {
+      "refID": "Skyrim.esm|0162C5",
+      "iconName": "TolvaldsCave" // Пещера Толвальда
+    },
+    {
+      "refID": "Skyrim.esm|016293",
+      "iconName": "PinemoonCave" // Пещера Лунный Бор
+    },
+    {
+      "refID": "Skyrim.esm|01625D",
+      "iconName": "HaemarsShame" // Пещера Хеймара
+    },
+    {
+      "refID": "Skyrim.esm|016256",
+      "iconName": "MovarthsLair" // Логово Моварта
+    },
+    {
+      "refID": "Skyrim.esm|0A0E46",
+      "iconName": "NorthShriekwindBastion" // Северный бастион Кричащий Ветер
+    },
+    {
+      "refID": "Skyrim.esm|0B83C8",
+      "iconName": "SouthShriekwindBastion" // Южный бастион Кричащий Ветер
+    },
+    {
+      "refID": "Skyrim.esm|016EB2",
+      "iconName": "BloodthroneKeep" // Кровавый Трон
+    },
+    {
+      "refID": "Skyrim.esm|016290",
+      "iconName": "NorthwatchKeep" // Северная сторожевая крепость
+    },
+    {
+      "refID": "Skyrim.esm|033E45",
+      "iconName": "ThalmorEmbassy" // Талморское посольство
+    },
+    {
+      "refID": "Skyrim.esm|04788C",
+      "iconName": "FalkreathWatchtower" // Сторожевая башня
+    },
+    {
+      "refID": "Skyrim.esm|0EE79C",
+      "iconName": "HamvirsRest" // Привал Хамвира
+    },
+    {
+      "refID": "Skyrim.esm|0FDBDE",
+      "iconName": "NorthwindMine" // Шахта Северный Ветер
+    },
+    {
+      "refID": "Skyrim.esm|016224",
+      "iconName": "Korvanjund" // Корваньюнд
+    },
+    {
+      "refID": "STB.esp|01B27C",
+      "iconName": "KorvanjundQuest" // Корваньюнд
+    },
+    {
+      "refID": "Skyrim.esm|016230",
+      "iconName": "DragonsToothCrater" // Кратер Драконий Зуб
+    },
+    {
+      "refID": "STB.esp|01B27B",
+      "iconName": "DragonsToothCraterQuest" // Кратер Драконий Зуб
+    },
+    {
+      "refID": "Skyrim.esm|016234",
+      "iconName": "NorthwindSummit" // Вершина Северный Ветер
+    },
+    {
+      "refID": "STB.esp|01B27A",
+      "iconName": "NorthwindSummitQuest" // Вершина Северный Ветер
+    },
+    {
+      "refID": "Skyrim.esm|01626B",
+      "iconName": "Irkngthand" // Иркнтанд
+    },
+   {
+      "refID": "STB.esp|01B232",
+      "iconName": "IrkngthandQuest" // Иркнтанд
+    },
+    {
+      "refID": "Skyrim.esm|01629D",
+      "iconName": "ReachcliffCave" // Утесная пещера
+    },   
+    {
+      "refID": "STB.esp|01B2B2",
+      "iconName": "ReachcliffCaveQuest" // Утесная пещера
+    },
+    {
+      "refID": "Skyrim.esm|0162A5",
+      "iconName": "Saarthal" // Саартал
+    },
+    {
+      "refID": "Skyrim.esm|0162D2",
+      "iconName": "YsgramorsTomb" // Гробница Исграмора
+    },
+    {
+      "refID": "Skyrim.esm|02DDD1",
+      "iconName": "SnowVeilSanctum" // Снежная Завеса - Святилище
+    },
+    {
+      "refID": "Skyrim.esm|06CCC8",
+      "iconName": "ShroudHearthBarrow" // Курган Погребальный Огонь
+    },
+    {
+      "refID": "Skyrim.esm|0B629F",
+      "iconName": "RebelsCairn" // Каирн Мятежника
+    },
+    {
+      "refID": "STB.esp|01B234",
+      "iconName": "ArcwindPointQuest" // Ветровая Дуга
+    },
+    {
+      "refID": "Skyrim.esm|0F5FEF",
+      "iconName": "ArcwindPoint" // Ветровая Дуга
+    },
+    {
+      "refID": "Skyrim.esm|016211",
+      "iconName": "BleakwindBasin" // Водоем Холодный Ветер
+    },
+    {
+      "refID": "Skyrim.esm|016214",
+      "iconName": "BlizzardRest" // Дом Буранов
+    },
+    {
+      "refID": "Skyrim.esm|016225",
+      "iconName": "CradlecrushRock" // Седловая скала
+    },
+    {
+      "refID": "Skyrim.esm|01623A",
+      "iconName": "SteamcragCamp" // Паровой лагерь
+    },
+    {
+      "refID": "Skyrim.esm|01625C",
+      "iconName": "GuldunRock" // Скала Гулдун
+    },
+    {
+      "refID": "Skyrim.esm|0162A0",
+      "iconName": "RedRoadPass" // Красный перевал
+    },
+    {
+      "refID": "Skyrim.esm|0162A6",
+      "iconName": "SecundasKiss" // Поцелуй Секунды
+    },
+    {
+      "refID": "Skyrim.esm|0162B8",
+      "iconName": "SleepingTreeCamp" // Лагерь Сонное Дерево
+    },
+    {
+      "refID": "Skyrim.esm|0162C1",
+      "iconName": "StonehillBluff" // Утес Каменный Холм
+    },
+    {
+      "refID": "Skyrim.esm|0162C3",
+      "iconName": "TalkingStoneCamp" // Лагерь Говорящий Камень
+    },
+    {
+      "refID": "Skyrim.esm|0162C7",
+      "iconName": "TumbleArchPass" // Арочный перевал
+    },
+    {
+      "refID": "Skyrim.esm|0D28B7",
+      "iconName": "GiantsGrove" // Роща Великанов
+    },
+    {
+      "refID": "Skyrim.esm|0ECF86",
+      "iconName": "BrokenLimbCamp" // Лагерь Сломанная Нога
+    },
+    {
+      "refID": "Skyrim.esm|016226",
+      "iconName": "CragslaneCavern" // Пещера Крегслейн
+    },
+    {
+      "refID": "Skyrim.esm|0162AA",
+      "iconName": "WreckOfTheIceRunner" // Место крушения Бегущего по льду
+    },
+    {
+      "refID": "Skyrim.esm|01A710",
+      "iconName": "GoldenglowEstate" // Поместье Златоцвет
+    },
+    {
+      "refID": "Skyrim.esm|02C652",
+      "iconName": "BrinehammerWreck" // Грот Соленая Вода
+    },
+    {
+      "refID": "Skyrim.esm|038593",
+      "iconName": "HonningbrewMeadery" // Медоварня Хоннинга
+    },
+    {
+      "refID": "Skyrim.esm|04FEF2",
+      "iconName": "EastEmpireCompanyWarehouse" // Склад Восточной имперской компании
+    },
+    {
+      "refID": "Skyrim.esm|0C016D",
+      "iconName": "SolitudeLighthouse" // Солитьюд - Маяк
+    },
+    {
+      "refID": "Skyrim.esm|016217",
+      "iconName": "SouthFringeSanctum" // Южное святилище
+    },
+    {
+      "refID": "Skyrim.esm|016227",
+      "iconName": "CragwallowSlope" // Откос Крегвеллоу
+    },
+    {
+      "refID": "Skyrim.esm|01622A",
+      "iconName": "DarklightTower" // Башня Светотьмы
+    },
+    {
+      "refID": "Skyrim.esm|016249",
+      "iconName": "FortAmol" // Форт Амол
+    },
+    {
+      "refID": "Skyrim.esm|01624F",
+      "iconName": "FortKastav" // Форт Кастав
+    },
+    {
+      "refID": "Skyrim.esm|016257",
+      "iconName": "GlenmorilCoven" // Гленморильский ковен
+    },
+    {
+      "refID": "Skyrim.esm|01625F",
+      "iconName": "WitchesFestival" // Ведьмино гнездо
+    },
+    {
+      "refID": "Skyrim.esm|016262",
+      "iconName": "Harmugstahl" // Хармугстал
+    },
+    {
+      "refID": "Skyrim.esm|016265",
+      "iconName": "NorthSnaplegGap" // Северный Ноголомный проход
+    },
+    {
+      "refID": "Skyrim.esm|016266",
+      "iconName": "Hobscave" // Пещера Хоба
+    },
+    {
+      "refID": "Skyrim.esm|01626A",
+      "iconName": "IlinaltasDeep" // Глубины Илиналты
+    },
+    {
+      "refID": "Skyrim.esm|016288",
+      "iconName": "Morvunskar" // Морвунскар
+    },
+    {
+      "refID": "Skyrim.esm|016292",
+      "iconName": "AniseCabin" // Одинокая скала
+    },
+    {
+      "refID": "Skyrim.esm|01629C",
+      "iconName": "RavensScar" // Воронья нора
+    },
+    {
+      "refID": "Skyrim.esm|0162A1",
+      "iconName": "ChillwindDepths3" // Морозная пещера
+    },
+    {
+      "refID": "Skyrim.esm|016251",
+      "iconName": "FortSnowhawk" // Форт Сноухок
+    },
+    {
+      "refID": "Skyrim.esm|017082",
+      "iconName": "NightcallerTemple" // Храм Призывателей Ночи
+    },
+    {
+      "refID": "Skyrim.esm|068094",
+      "iconName": "SnaplegCave" // Щелкающая пещера
+    },
+    {
+      "refID": "Skyrim.esm|082213",
+      "iconName": "SouthSnaplegGap" // Южный Ноголомный проход
+    },
+    {
+      "refID": "Skyrim.esm|0DD9D5",
+      "iconName": "TheRitualStone" // Камень Ритуала
+    },
+    {
+      "refID": "Skyrim.esm|0E1B80",
+      "iconName": "WitchmistGrove" // Роща Ведьмин Туман
+    },
+    {
+      "refID": "Skyrim.esm|0E66AD",
+      "iconName": "DrelasCottage" // Дом Дреласа
+    },
+    {
+      "refID": "Skyrim.esm|0F52D8",
+      "iconName": "BoulderfallCave" // Камнепадная пещера
+    },
+    {
+      "refID": "Skyrim.esm|0F5EA8",
+      "iconName": "SunderstoneGorge" // Разделенное ущелье
+    },
+    {
+      "refID": "Skyrim.esm|01621B",
+      "iconName": "BroodCavern" // Разводная пещера
+    },
+    {
+      "refID": "Skyrim.esm|016229",
+      "iconName": "CrystaldriftCave" // Кристаллическая пещера
+    },
+    {
+      "refID": "Skyrim.esm|016243",
+      "iconName": "YellowstoneCave" // Пещера Желтый Камень
+    },
+    {
+      "refID": "Skyrim.esm|016259",
+      "iconName": "ShimmermistCave1" // Серозимняя застава
+    },
+    {
+      "refID": "Skyrim.esm|016267",
+      "iconName": "HoneystrandCave" // Медовая пещера
+    },
+    {
+      "refID": "Skyrim.esm|016269",
+      "iconName": "SwindlerDen" // Нора Зеленый Ручей
+    },
+    {
+      "refID": "Skyrim.esm|016294",
+      "iconName": "PinepeakCavern" // Пещера Сосновый Пик
+    },
+    {
+      "refID": "Pinepeak Crypt - STB Patch.esp|801",
+      "iconName": "PinepeakCavernQuest" // Пещера Сосновый Пик (свап по Pen_PinePeakQuest 5)
+    },
+    {
+      "refID": "Skyrim.esm|046BAB",
+      "iconName": "BronzeWaterCave" // Пещера Бронзовая Вода
+    },
+    {
+      "refID": "Skyrim.esm|0B6046",
+      "iconName": "DeepShadow" // Глубокая Тень
+    },
+    {
+      "refID": "Skyrim.esm|0EF549",
+      "iconName": "JourneymanNook" // Приют Подмастерья
+    },
+    {
+      "refID": "Skyrim.esm|0EF570",
+      "iconName": "RefugeesRest" // Привал Беженцев
+    },
+    {
+      "refID": "Skyrim.esm|0F4FE7",
+      "iconName": "SteepfallBurrowDown" // Нижняя Отвесная нора
+    },
+    {
+      "refID": "Skyrim.esm|0F5EAF",
+      "iconName": "SouthColdRockPass" // Южный проход Холодных Скал
+    },
+    {
+      "refID": "Skyrim.esm|0F5EB1",
+      "iconName": "NorthColdRockPass" // Северный проход Холодных Скал
+    },
+    {
+      "refID": "Skyrim.esm|0FDA48",
+      "iconName": "BonechillPass" // Сквозняковый проход
+    },
+    {
+      "refID": "Skyrim.esm|0ECF51",
+      "iconName": "Mara'sEyePond" // Пруд Глаз Мары
+    },
+    {
+      "refID": "Skyrim.esm|0C342A",
+      "iconName": "HalloftheVigilant" // Зал Дозора
+    },
+    {
+      "refID": "Skyrim.esm|017785",
+      "iconName": "NightgateInn" // Таверна Ночные ворота
+    },
+    {
+      "refID": "Skyrim.esm|0D392D",
+      "iconName": "Froki'sShack" // Хижина Фроки
+    },
+    {
+      "refID": "Skyrim.esm|0177A1",
+      "iconName": "Kynesgrove" // Роща Кин
+    },
+    {
+      "refID": "Skyrim.esm|046BDF",
+      "iconName": "WinterholdCollege" // Коллегия Винтерхолда
+    },
+    {
+      "refID": "Skyrim.esm|0C44AB",
+      "iconName": "SolitudeBluePalace" // Синий дворец
+    },
+    {
+      "refID": "Skyrim.esm|01620C",
+      "iconName": "AutumnshadeClearing" // Осенняя поляна
+    },
+    {
+      "refID": "Skyrim.esm|01620F",
+      "iconName": "ChillwindDepths4" // Пещера Холодный Берег
+    },
+    {
+      "refID": "Skyrim.esm|016222",
+      "iconName": "ClearpinePond" // Пруд Чистых Сосен
+    },
+    {
+      "refID": "Skyrim.esm|016223",
+      "iconName": "ClearwaterLake" // Чистое озеро
+    },
+    {
+      "refID": "Skyrim.esm|016241",
+      "iconName": "EvergreenGrove" // Вечнозеленая роща
+    },
+    {
+      "refID": "Skyrim.esm|016289",
+      "iconName": "MossyGlenCave" // Мшистая пещера
+    },
+    {
+      "refID": "Skyrim.esm|0162A8",
+      "iconName": "ShadowgreenCavern" // Пещера Зеленая Тень
+    },
+    {
+      "refID": "Skyrim.esm|0162B1",
+      "iconName": "ShroudedHearth" // Скрытая роща
+    },
+    {
+      "refID": "Skyrim.esm|0162B7",
+      "iconName": "EldergleamSanctuary" // Святилище Великого Древа
+    },
+    {
+      "refID": "Skyrim.esm|0162BF",
+      "iconName": "SteepfallBurrow" // Отвесная нора
+    },
+    {
+      "refID": "Skyrim.esm|01625A",
+      "iconName": "GreywaterGrotto" // Грот Серая Вода
+    },
+    {
+      "refID": "Skyrim.esm|0162AB",
+      "iconName": "WreckoftheBrinehammer" // Место крушения Соленого молота
+    },
+    {
+      "refID": "Skyrim.esm|0EF0BA",
+      "iconName": "WhitePineTower" // Башня Белая Сосна
+    },
+    {
+      "refID": "Skyrim.esm|0EF0A7",
+      "iconName": "WidowsWatchRuins" // Руины Вдовьей заставы
+    },
+    {
+      "refID": "Skyrim.esm|0E0F69",
+      "iconName": "SerpentStone" // Камень Змея
+    },
+    {
+      "refID": "Skyrim.esm|0D3939",
+      "iconName": "RkundRuins" // Руины Ркунда
+    },
+    {
+      "refID": "Skyrim.esm|0D3938",
+      "iconName": "LostProspectMine" // Шахта Потерянный Шанс
+    },
+    {
+      "refID": "Skyrim.esm|0D3934",
+      "iconName": "ShorsWatchtower" // Сторожевая башня Шора
+    },
+    {
+      "refID": "Skyrim.esm|0C2EEF",
+      "iconName": "KjenstagRuins" // Руины Кьенстаг
+    },
+    {
+      "refID": "Skyrim.esm|0BC0AA",
+      "iconName": "WeynonStones" // Камни Вейнон
+    },
+    {
+      "refID": "Skyrim.esm|047880",
+      "iconName": "ShadowTower" // Теневая башня
+    },
+    {
+      "refID": "Skyrim.esm|047875",
+      "iconName": "RoadsideRuins" // Придорожные руины
+    },
+    {
+      "refID": "Skyrim.esm|01628A",
+      "iconName": "MountAnthor" // Гора Антор
+    },
+    {
+      "refID": "Skyrim.esm|01626E",
+      "iconName": "Labyrinthian" // Лабиринтиан
+    },
+    {
+      "refID": "Skyrim.esm|01626D",
+      "iconName": "StatueToMeridia" // Статуя Меридии
+    },
+    {
+      "refID": "Skyrim.esm|016239",
+      "iconName": "SkybornAltar" // Алтарь Рожденного Небом
+    },
+    {
+      "refID": "Skyrim.esm|016238",
+      "iconName": "AncientsAscent" // Пик Древних
+    },
+    {
+      "refID": "Skyrim.esm|016231",
+      "iconName": "EldergleamPass" // Ход Древних
+    },
+    {
+      "refID": "Skyrim.esm|016215",
+      "iconName": "BloatedMansGrotto" // Грот Утопленника
+    },
+    {
+      "refID": "STB.esp|01B238",
+      "iconName": "BloatedMansGrottoQuest" // Грот Утопленника
+    },
+    {
+      "refID": "Skyrim.esm|0177E4",
+      "iconName": "Stonehills" // Каменные холмы
+    },
+    {
+      "refID": "Skyrim.esm|0162D6",
+      "iconName": "AngasMill" // Деревня Анга
+    },
+    {
+      "refID": "Skyrim.esm|016276",
+      "iconName": "StormcloaksReach" // Братья Бури - Предел
+    },
+    {
+      "refID": "Skyrim.esm|01627A",
+      "iconName": "StormcloaksHjaalmarch" // Братья Бури - Хьялмарк
+    },
+    {
+      "refID": "Skyrim.esm|01627C",
+      "iconName": "StormcloaksWhiteCoast" // Братья Бури - Белый Берег
+    },
+    {
+      "refID": "Skyrim.esm|01627E",
+      "iconName": "StormcloaksWinterhold" // Братья Бури - Винтерхолд
+    },
+    {
+      "refID": "Skyrim.esm|016280",
+      "iconName": "StormcloaksRift" // Братья Бури - Рифт
+    },
+    {
+      "refID": "Skyrim.esm|016282",
+      "iconName": "StormcloaksFalkreath" // Братья Бури - Фолкрит
+    },
+    {
+      "refID": "Skyrim.esm|094F96",
+      "iconName": "StormcloaksHaafingar" // Братья Бури - Хаафингар
+    },
+    {
+      "refID": "Skyrim.esm|095885",
+      "iconName": "StormcloaksWhiterun" // Братья Бури - Вайтран
+    },
+    {
+      "refID": "Skyrim.esm|016277",
+      "iconName": "EmpireLimit" // Империя - Предел
+    },
+    {
+      "refID": "Skyrim.esm|016279",
+      "iconName": "EmpireHjaalmarch" // Империя - Хьялмарк
+    },
+    {
+      "refID": "Skyrim.esm|01627B",
+      "iconName": "EmpireWhiteCoast" // Империя - Белый Берег
+    },
+    {
+      "refID": "Skyrim.esm|01627D",
+      "iconName": "EmpireWinterhold" // Империя - Винтерхолд
+    },
+    {
+      "refID": "Skyrim.esm|016281",
+      "iconName": "EmpireRift" // Империя - Рифт
+    },
+    {
+      "refID": "Skyrim.esm|016283",
+      "iconName": "EmpireFalkreath" // Империя - Фолкрит
+    },
+    {
+      "refID": "Skyrim.esm|016284",
+      "iconName": "EmpireWhiterun" // Империя - Вайтран
+    },
+    {
+      "refID": "Skyrim.esm|095A08",
+      "iconName": "EmpireEastmarch" // Империя - Истмарк
+    },
+    {
+      "refID": "Skyrim.esm|04D8DA",
+      "iconName": "DA02BoethiahShrine" // Часовня Боэтии
+    },
+    {
+      "refID": "Skyrim.esm|0DD99A",
+      "iconName": "WhitewatchTower" // Белая сторожевая башня
+    },
+    {
+      "refID": "Skyrim.esm|0162C4",
+      "iconName": "ThroatoftheWorld" // Глотка Мира
+    },
+    {
+      "refID": "STB.esp|01B236",
+      "iconName": "AutumnwatchTowerQuest" // Осенняя сторожевая башня
+    },
+    {
+      "refID": "Skyrim.esm|016233",
+      "iconName": "AutumnwatchTower" // Осенняя сторожевая башня
+    },
+    {
+      "refID": "Skyrim.esm|0B77C3",
+      "iconName": "BrokenOarGrotto" // Грот Сломанное Весло
+    },
+    {
+      "refID": "STB.esp|01B233",
+      "iconName": "WolfskullCaveQuest" // Пещера Волчий Череп
+    },
+    {
+      "refID": "Skyrim.esm|0162D1",
+      "iconName": "WolfskullCave" // Пещера Волчий Череп
+    },
+    {
+      "refID": "Skyrim.esm|08D5D6",
+      "iconName": "Valthume" // Валтум
+    },
+    {
+      "refID": "Skyrim.esm|01629A",
+      "iconName": "Ragnvald" // Рагнвальд
+    },
+    {
+      "refID": "Skyrim.esm|016263",
+      "iconName": "HighGateRuins" // Руины Высоких Врат
+    },
+    {
+      "refID": "Skyrim.esm|016247",
+      "iconName": "Forelhost" // Форелхост
+    },
+    {
+      "refID": "Skyrim.esm|0B23A3",
+      "iconName": "ReachwindEyrie" // Гнездо Ветров Предела
+    },
+    {
+      "refID": "Skyrim.esm|0B238F",
+      "iconName": "DeepFolkCrossing" // Переправа Глубинного Народа
+    },
+    {
+      "refID": "Skyrim.esm|016235",
+      "iconName": "TongueWoodlookout" // Высота Откушенный Язык
+    },
+    {
+      "refID": "STB.esp|01B237",
+      "iconName": "TongueWoodlookoutQuest" // Высота Откушенный Язык
+    },
+    {
+      "refID": "Skyrim.esm|01621F",
+      "iconName": "Ustengrav" // Устенгрев
+    },
+    {
+      "refID": "Skyrim.esm|0ECF49",
+      "iconName": "AbandonedPrison" // Заброшенная тюрьма
+    },
+    {
+      "refID": "Skyrim.esm|0162A9",
+      "iconName": "ShimmermistCave2" // Пещера Мерцающий Туман
+    },
+    {
+      "refID": "Skyrim.esm|01628C",
+      "iconName": "Mzulft" // Мзулфт
+    },
+    {
+      "refID": "Skyrim.esm|015D4A",
+      "iconName": "Alftand" // Альфтанд -- Черный Предел
+    },
+    {
+      "refID": "Skyrim.esm|108A58",
+      "iconName": "StendarrsBeacon" // Сигнальная башня Стендарра
+    },
+    {
+      "refID": "Skyrim.esm|01629E",
+      "iconName": "ReachwaterRock" // Озерный утес
+    },
+    {
+      "refID": "Skyrim.esm|01621D",
+      "iconName": "Bthardamz" // Бтардамз
+    },
+    {
+      "refID": "Skyrim.esm|01620D",
+      "iconName": "MS04Avanchnzel" // Аванчнзел
+    },
+    {
+      "refID": "STB.esp|01B235",
+      "iconName": "ShearpointQuest" // Двуглавый пик
+    },
+    {
+      "refID": "Skyrim.esm|016237",
+      "iconName": "Shearpoint" // Двуглавый пик
+    },
+    {
+      "refID": "Skyrim.esm|0246A5",
+      "iconName": "DagonShrine" // Святилище Мерунеса Дагона
+    },
+    {
+      "refID": "Skyrim.esm|0D393C",
+      "iconName": "RuinsofBthalft" // Руины Бталфта
+    },
+    {
+      "refID": "STB.esp|01B279",
+      "iconName": "RuinsofBthalftQuest" // Руины Бталфта
+    },
+    {
+      "refID": "Skyrim.esm|016270",
+      "iconName": "Liar'sRetreat" // Пристанище Лжеца
+    },
+    {
+      "refID": "Skyrim.esm|016228",
+      "iconName": "CronvangrCave" // Пещера Кронвангр
+    },
+    {
+      "refID": "Skyrim.esm|0E66A7 ",
+      "iconName": "Crabber'sshack" // Хибара краболова
+    },
+    {
+      "refID": "Skyrim.esm|090595",
+      "iconName": "Raldbthar" // Ральдбтхар
+    },
+    {
+      "refID": "Skyrim.esm|0162B5",
+      "iconName": "SilverdriftLair" // Серебряное логово
+    },
+    {
+      "refID": "Skyrim.esm|016232",
+      "iconName": "BleakFallsBarrow" // Ветреный пик
+    },
+    {
+      "refID": "Skyrim.esm|0162CA",
+      "iconName": "Volskygge" // Вольскигге
+    },
+    {
+      "refID": "Skyrim.esm|01628B",
+      "iconName": "Mzinchaleft" // Мзинчалефт
+    },
+    {
+      "refID": "Skyrim.esm|015D56",
+      "iconName": "Ansilvund" // Ансилвунд
+    },
+    {
+      "refID": "Skyrim.esm|016244",
+      "iconName": "FellglowKeepMap" // Крепость Феллглоу
+    },
+    {
+      "refID": "Skyrim.esm|01629B",
+      "iconName": "Rannveig'sFast" // Обитель Раннвейг
+    },
+    {
+      "refID": "Skyrim.esm|0F5B8D",
+      "iconName": "Dustman'sCairn" // Древний каирн
+    },
+    {
+      "refID": "Skyrim.esm|01C3B0",
+      "iconName": "DBSanctuaryMapMarker" // Убежище Темного Братства
+    },
+    {
+      "refID": "Dawnguard.esm|008E41", // Причал Ледяных Вод
+      "iconName": "IcewaterJettyTP"
+    },
+    {
+      "refID": "Dawnguard.esm|013F21", // Форт Стражи Рассвета
+      "iconName": "FortDawnguardTP"
+    },
+    {
+      "refID": "Dawnguard.esm|00FC6C", // Форт Стражи Рассвета 2
+      "iconName": "FortDawnguardTP2"
+    },
+    {
+      "refID": "Dawnguard.esm|00777E",
+      "iconName": "RedwaterDen" // Красноводное логово
+    },
+    {
+      "refID": "Dawnguard.esm|003CFE",
+      "iconName": "BloodchillCavern" // Укрытие Старейшин
+    },
+    {
+      "refID": "Dawnguard.esm|00D0AE",
+      "iconName": "MolderingRuins" // Развалины
+    },
+    {
+      "refID": "Dawnguard.esm|004C0F",
+      "iconName": "DarkfallCave" // Вечерняя пещера
+    },
+    {
+      "refID": "Dawnguard.esm|004BA5",
+      "iconName": "AncestorGlade" // Поляна Предков
+    },
+    {
+      "refID": "Dawnguard.esm|002F6F",
+      "iconName": "DimhollowCrypt" // Крипта Ночной Пустоты
+    },
+    {
+      "refID": "STB.esp|01B231",
+      "iconName": "DimhollowCryptQuest" // Крипта Ночной Пустоты
+    },
+    {
+      "refID": "Dawnguard.esm|00BA4D",
+      "iconName": "DLC1VampireCastle" // Замок Волкихар
+    },
+    {
+      "refID": "Dawnguard.esm|0088E0",
+      "iconName": "ForgottenVale" // Забытая долина
+    },
+    {
+      "refID": "Dawnguard.esm|008257",
+      "iconName": "Arkngthamz" // Аркнтамз
+    },
+    {
+      "refID": "Dawnguard.esm|007B23",
+      "iconName": "DLC1Ruunvald" // Раскопки Рунвальда
+    },
+    {
+      "refID": "Dragonborn.esm|143E2", // Деревня Скаалов
+      "iconName": "SkaalVillageTP"
+    },
+    {
+      "refID": "Dragonborn.esm|143DC", // Raven Rock
+      "iconName": "RavenRockTP"
+    },
+    {
+      "refID": "Dragonborn.esm|143E8", // Tel Mithryn
+      "iconName": "TelMithrynTP"
+    },
+    {
+      "refID": "Dragonborn.esm|0296DE",
+      "iconName": "StiflingMine" // Душная шахта
+    },
+    {
+      "refID": "Dragonborn.esm|0143CF",
+      "iconName": "WreckOfTheStridentSquall" // Место крушения Порыва ветра
+    },
+    {
+      "refID": "Dragonborn.esm|0143D5",
+      "iconName": "HaknirsShoal" // Отмель Хакнира
+    },
+    {
+      "refID": "Dragonborn.esm|0143C0",
+      "iconName": "BrodersGrove" // Роща Бродира
+    },
+    {
+      "refID": "Dragonborn.esm|0143BD",
+      "iconName": "AltarOfThrond" // Алтарь Тронда
+    },
+    {
+      "refID": "Dragonborn.esm|016FE7",
+      "iconName": "Solstheim" // Солстейм
+    },
+    {
+      "refID": "Dragonborn.esm|016FE6",
+      "iconName": "Skyrim" // Скайрим
+    },
+    {
+      "refID": "Dragonborn.esm|0143E2",
+      "iconName": "SkaalVillage" // Деревня Скаалов
+    },
+    {
+      "refID": "Dragonborn.esm|143BE", // Бенконгерик
+      "iconName": "Benkongerike"
+    },
+    {
+      "refID": "Dragonborn.esm|143C1", // Руины замка Карстааг
+      "iconName": "CastleKarstaagRuins"
+    },
+    {
+      "refID": "Dragonborn.esm|143C5", // Фроссель
+      "iconName": "Frossel"
+    },
+    {
+      "refID": "Dragonborn.esm|143CE", // Проход Моэсринг
+      "iconName": "MoesringPass"
+    },
+    {
+      "refID": "Dragonborn.esm|143D4", // Шахта Сломанный Клык
+      "iconName": "BrokenTuskMine"
+    },
+    {
+      "refID": "Dragonborn.esm|143D7", // Ледяная пещера
+      "iconName": "GlacialCave"
+    },
+    {
+      "refID": "Dragonborn.esm|0143C4", // Форт Морозного Мотылька
+      "iconName": "DLC2Frostmoth"
+    },
+    {
+      "refID": "Dragonborn.esm|0143D9", // Вершинная башня
+      "iconName": "DLC2HightpointTower"
+    },
+    {
+      "refID": "Dragonborn.esm|0143D1", // Утес Морозной Луны
+      "iconName": "DLC2FrostmoonCrag"
+    }, 
+    {
+      "refID": "Dragonborn.esm|0143E3", // Камень Зверя
+      "iconName": "DLC2StoneBeast"
+    }, 
+    {
+      "refID": "Dragonborn.esm|0143E4", // Камень Земли
+      "iconName": "DLC2StoneEarth"
+    }, 
+    {
+      "refID": "Dragonborn.esm|0143E5", // Камень Солнца
+      "iconName": "DLC2StoneSun"
+    }, 
+    {
+      "refID": "Dragonborn.esm|0143E6", // Камень Воды
+      "iconName": "DLC2StoneWater"
+    }, 
+    {
+      "refID": "Dragonborn.esm|0143E7", // Камень Ветра
+      "iconName": "DLC2StoneWind"
+    }, 
+    {
+      "refID": "Dragonborn.esm|01A562", // Старая ферма Аттия
+      "iconName": "DLC2RRAttiusFarm"
+    },
+    {
+      "refID": "Dragonborn.esm|0143D6", // Дом Хродульфа
+      "iconName": "Hrodulf'sHouse"
+    },
+    {
+      "refID": "Dragonborn.esm|0143D8", // Пепельная крепость
+      "iconName": "DLC2Ashfallow"
+    },
+    {
+      "refID": "Dragonborn.esm|017B68", // Заброшенный постоялый двор
+      "iconName": "AbandonedLodge"
+    },
+    {
+      "refID": "Dragonborn.esm|0143C7", // Остров Хоркеров
+      "iconName": "HorkerIsland"
+    },
+    {
+      "refID": "Dragonborn.esm|0143D0", // Пристанище Буйольд
+      "iconName": "Bujold'sRetreat"
+    },
+    {
+      "refID": "Dragonborn.esm|0143E9", // Медовый зал Тирска
+      "iconName": "ThirskMeadHall"
+    },
+    {
+      "refID": "Dragonborn.esm|039F96", // Верховье Харстрада
+      "iconName": "HeadwatersofHarstrad"
+    },
+    {
+      "refID": "Dragonborn.esm|0143DA", // Северная пристань
+      "iconName": "NorthshoreLanding"
+    },
+    {
+      "refID": "Dragonborn.esm|0143C9",
+      "iconName": "Nchardak" // Нчардак
+    },
+    {
+      "refID": "Dragonborn.esm|0143C6",
+      "iconName": "GyldenhulBarrow" // Курган Гильденхул
+    },
+    {
+      "refID": "Dragonborn.esm|0143CD",
+      "iconName": "WhiteRidgeBarrow" // Курган Белого Хребта
+    },
+    {
+      "refID": "Dragonborn.esm|0143CC",
+      "iconName": "KolbjornBarrow" // Курган Колбьорн
+    },
+    {
+      "refID": "Dragonborn.esm|01BC48",
+      "iconName": "BristlebackCave" // Пещера Щетиноспин
+    },
+    {
+      "refID": "Dragonborn.esm|018ED8",
+      "iconName": "CastleKarstaagCaverns" // Пещ еры замка Карстаг
+    },
+    {
+      "refID": "Dragonborn.esm|0247C8",
+      "iconName": "SnowcladRuins" // Заснеженные руины
+    },
+    {
+      "refID": "Dragonborn.esm|019D1C",
+      "iconName": "DLC2SaeringsWatch" // Застава Сиринга
+    },
+    {
+      "refID": "STB.esp|01B2B4",
+      "iconName": "DLC2SaeringsWatchQuest" // Застава Сиринга
+    },
+    {
+      "refID": "Dragonborn.esm|0143C3",
+      "iconName": "Kagrumez" // Кагрумез
+    },
+    {
+      "refID": "Dragonborn.esm|0143BF",
+      "iconName": "BloodskalBarrow" // Курган Бладскал
+    },
+    {
+      "refID": "Dragonborn.esm|0143C2",
+      "iconName": "Fahlbtharz" // Фалбтарз
+    },
+    {
+      "refID": "Dragonborn.esm|0143CA",
+      "iconName": "TempleofMiraak" // Храм Мирака
+    },
+    {
+      "refID": "Unofficial Skyrim Special Edition Patch.esp|028852",
+      "iconName": "Cold" // Холодная
+    },
+    {
+      "refID": "STB.esp|019CC6",
+      "iconName": "Smuggler'sDen" // Лагерь Контрабандистов
+    },
+    {
+      "refID": "STB.esp|019CBE",
+      "iconName": "DestroyedTowerRift" // Разрушенная башня Рифта
+    },
+    {
+      "refID": "STB.esp|019C93",
+      "iconName": "CampThicket" // Лагерь Чаща
+    },
+    {
+      "refID": "STB.esp|019D08",
+      "iconName": "FalkreathCrossingAmbush" // Бандитская застава
+    },
+    {
+      "refID": "STB.esp|019CA6",
+      "iconName": "AbandonedCamp" // Заброшенный лагерь
+    },
+    {
+      "refID": "STB.esp|019CB9",
+      "iconName": "CampIstok" // Лагерь Исток
+    },
+    {
+      "refID": "STB.esp|019D31",
+      "iconName": "Crossroads" // Перепутье
+    },
+    {
+      "refID": "STB.esp|019CAF",
+      "iconName": "MammothGraveyard" // Кладбище мамонтов
+    },
+    {
+      "refID": "STB.esp|019C86",
+      "iconName": "DestroyedTower" // Разрушенная башня
+    },
+    {
+      "refID": "STB.esp|019CAB",
+      "iconName": "BurntHouse" // Погорелый дом
+    },
+    {
+      "refID": "STB.esp|019D1E",
+      "iconName": "AshCamp" // Лагерь Пепельный
+    },
+    {
+      "refID": "STB.esp|019C9B",
+      "iconName": "FortRuins" // Руины форта
+    },
+    {
+      "refID": "STB.esp|019C88",
+      "iconName": "Kru'ul'sLair" // Логово Кру'ула
+    },
+    {
+      "refID": "STB.esp|019CA0",
+      "iconName": "ShrineOfTalosDraugr" // Святилище Талоса
+    },
+    {
+      "refID": "STB.esp|01A11B",
+      "iconName": "BroodRuins" // Болотные руины
+    },
+    {
+      "refID": "STB.esp|019CA8",
+      "iconName": "CrossingCamp" // Лагерь Переправа
+    },
+    {
+      "refID": "STB.esp|019CAA",
+      "iconName": "DeepwoodOutpost" // Лесной оплот - аванпост
+    },
+    {
+      "refID": "STB.esp|019CAC",
+      "iconName": "EaglesNestCamp" // Лагерь Орлиный Утес
+    },
+    {
+      "refID": "STB.esp|019CA1",
+      "iconName": "ShrineofTalos" // Святилище Талоса
+    },
+    {
+      "refID": "STB.esp|019C96",
+      "iconName": "SepulchralAltar" // Замогильный алтарь
+    },
+    {
+      "refID": "STB.esp|019C99",
+      "iconName": "FrostRuins" // Морозные руины
+    },
+    {
+      "refID": "STB.esp|019CAD",
+      "iconName": "ForgottenAltar" // Забытый Алтарь
+    },
+    {
+      "refID": "STB.esp|019CB2",
+      "iconName": "NecromancerAltarWhiterun" // Алтарь некромантов
+    },
+    {
+      "refID": "STB.esp|019CB5",
+      "iconName": "BurialSite" // Захоронение
+    },
+    {
+      "refID": "STB.esp|019CBB",
+      "iconName": "NecromancerAltarFalkreath" // Алтарь некроманта
+    },
+    {
+      "refID": "STB.esp|01A7B8",
+      "iconName": "HallOfTheDeadWhiterun" // Зал мертвых (Вайт)
+    },
+    {
+      "refID": "STB.esp|01A7B9",
+      "iconName": "HallOfTheDeadSolitude" // Зал мертвых (Сол)
+    },
+    {
+      "refID": "STB.esp|019CD8",
+      "iconName": "DragonMound_15" // Драконий курган 15
+    },
+    {
+      "refID": "STB.esp|019CDA",
+      "iconName": "DragonMound_21" // Драконий курган 21
+    },
+    {
+      "refID": "STB.esp|019CDC",
+      "iconName": "DragonMound_20" // Драконий курган 20
+    },
+    {
+      "refID": "STB.esp|019CE0",
+      "iconName": "DragonMound_19" // Драконий курган 19
+    },
+    {
+      "refID": "STB.esp|019CE4",
+      "iconName": "DragonMound_18" // Драконий курган 18
+    },
+    {
+      "refID": "STB.esp|019CE8",
+      "iconName": "DragonMound_17" // Драконий курган 17
+    },
+    {
+      "refID": "STB.esp|019CEA",
+      "iconName": "DragonMound_16" // Драконий курган 16
+    },
+    {
+      "refID": "STB.esp|019CF0",
+      "iconName": "DragonMound_14" // Драконий курган 14
+    },
+    {
+      "refID": "STB.esp|019CF2",
+      "iconName": "DragonMound_13" // Драконий курган 13
+    },
+    {
+      "refID": "STB.esp|019CFA",
+      "iconName": "DragonMound_10" // Драконий курган 10
+    },
+    {
+      "refID": "STB.esp|01B2B6",
+      "iconName": "DragonMound_10Quest" // Драконий курган 10
+    },
+    {
+      "refID": "STB.esp|019CFE",
+      "iconName": "DragonMound_9" // Драконий курган 9
+    },
+    {
+      "refID": "STB.esp|019D00",
+      "iconName": "DragonMound_8" // Драконий курган 8
+    },
+    {
+      "refID": "STB.esp|019CDE",
+      "iconName": "DragonMound_Windhelm" // Драконий курган 7
+    },
+    {
+      "refID": "STB.esp|019CE2",
+      "iconName": "DragonMound_Falkreath" // Драконий курган 6
+    },
+    {
+      "refID": "STB.esp|01B288",
+      "iconName": "DragonMound_FalkreathQuest" // Драконий курган 6
+    },
+    {
+      "refID": "STB.esp|019CE6",
+      "iconName": "DragonMound_Markarth" // Драконий курган 5
+    },
+    {
+      "refID": "STB.esp|01B286",
+      "iconName": "DragonMound_MarkarthQuest" // Драконий курган 5
+    },
+    {
+      "refID": "STB.esp|019CEE",
+      "iconName": "DragonMound_Morthal" // Драконий курган 4
+    },
+    {
+      "refID": "STB.esp|01B284",
+      "iconName": "DragonMound_MorthalQuest" // Драконий курган 4
+    },
+    {
+      "refID": "STB.esp|019CF6",
+      "iconName": "DragonMound_Winterhold" // Драконий курган 3
+    },
+    {
+      "refID": "STB.esp|019CFC",
+      "iconName": "StormPeak" // Штормовой Пик
+    },
+    {
+      "refID": "STB.esp|019D02",
+      "iconName": "DragonMound_Dawnstar" // Драконий курган 1
+    },
+    {
+      "refID": "STB.esp|01B27D",
+      "iconName": "DragonMound_DawnstarQuest" // Драконий курган 1
+    },
+    {
+      "refID": "STB.esp|019D16",
+      "iconName": "TheRaggedFlagon" // Крысиная нора
+    },
+    {
+      "refID": "STB.esp|019D18",
+      "iconName": "RiftwealdManor" // Усадьба "Рифтвельд"
+    },
+    {
+      "refID": "STB.esp|019CA9",
+      "iconName": "WitchesCoven" // Ковен
+    },
+    {
+      "refID": "STB.esp|019C82",
+      "iconName": "RuinsOvergrown" // Заваленные руины
+    },
+    {
+      "refID": "STB.esp|019C83",
+      "iconName": "SnowDen" // Логово Снега
+    },
+    {
+      "refID": "STB.esp|019CA3",
+      "iconName": "WatchtowerRuins" // Руины сторожевой башни
+    },
+    {
+      "refID": "STB.esp|019CA7",
+      "iconName": "FrostThicketCamp" // Лагерь Ледяная Чаща
+    },
+    {
+      "refID": "STB.esp|019CB7",
+      "iconName": "ShrineRuins" // Руины святилища
+    },
+    {
+      "refID": "STB.esp|019CD3",
+      "iconName": "PeryiteAltar" // Алтарь Периайта
+    },
+    {
+      "refID": "STB.esp|019D0A",
+      "iconName": "CoastalRuins" // Прибрежные руины
+    },
+    {
+      "refID": "STB.esp|019D0E",
+      "iconName": "StoneFangGorge" // Ущелье Каменный Клык
+    },
+    {
+      "refID": "STB.esp|01A4F1",
+      "iconName": "RagnokLair" // Логово Рагнока
+    },
+    {
+      "refID": "STB.esp|019D2A",
+      "iconName": "NirnrootIsland" // Остров Корней Нирна
+    },
+    {
+      "refID": "STB.esp|019D20",
+      "iconName": "InconspicuousIsland" // Неприметный островок
+    },
+    {
+      "refID": "STB.esp|019D14",
+      "iconName": "FrostGorge" // Морозное ущелье
+    },
+    {
+      "refID": "STB.esp|019D0C",
+      "iconName": "BurntCart" // Сгоревшая повозка
+    },
+    {
+      "refID": "STB.esp|019D06",
+      "iconName": "PrisonRuins" // Тюремные руины
+    },
+    {
+      "refID": "STB.esp|019CD2",
+      "iconName": "AshenPlace" // Пепелище
+    },
+    {
+      "refID": "STB.esp|019D2E",
+      "iconName": "UnityCamp" // Лагерь Единение
+    },
+    {
+      "refID": "STB.esp|019D2C",
+      "iconName": "WayfarersCamp" // Стоянка путника
+    },
+    {
+      "refID": "STB.esp|019D28",
+      "iconName": "CoastalCamp" // Лагерь Прибрежный
+    },
+    {
+      "refID": "STB.esp|019D26",
+      "iconName": "PushchaCamp" // Лагерь Пуща
+    },
+    {
+      "refID": "STB.esp|019C8E",
+      "iconName": "DwarvenStorehouse" // Кладовая гномов
+    },
+    {
+      "refID": "STB.esp|019D24",
+      "iconName": "DragonMound_12" // Драконий курган 12
+    },
+    {
+      "refID": "STB.esp|019D22",
+      "iconName": "DragonMound_11" // Драконий курган 11
+    },
+    {
+      "refID": "STB.esp|019CD5",
+      "iconName": "ShrineOfAkatosh" // Святилище Акатоша
+    },
+    {
+      "refID": "STB.esp|019CBC",
+      "iconName": "SacrificialAltar" // Жертвенник
+    },
+    {
+      "refID": "STB.esp|019CB4",
+      "iconName": "RitualSite" // Ритуальное место
+    },
+    {
+      "refID": "STB.esp|019CC0",
+      "iconName": "SaMMMcVaPOIFallForest24" // Алтарь некроманта Рифта
+    },
+    {
+      "refID": "STB.esp|01B0D4",
+      "iconName": "SanuarachMine" // Шахта Сануарах
+    },
+    {
+      "refID": "STB.esp|01B0D5",
+      "iconName": "SoulCairnMarker" // Каирн Душ
+    },
+    {
+      "refID": "STB.esp|019D12",
+      "iconName": "ValuableCargo" // Ценный груз
+    },
+    {
+      "refID": "STB.esp|01B0D6",
+      "iconName": "RavenRockMine" // Шахта Вороньей Скалы
+    },
+    {
+      "refID": "STB.esp|01B0D7",
+      "iconName": "BlackBookTheHiddenTwilight" // Черная книга: Скрытый сумрак
+    },
+    {
+      "refID": "STB.esp|01B0C0",
+      "iconName": "CrabFall" // Крабопад
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|000FE0",
+      "iconName": "CampFallenPines" // Лагерь Поваленные Сосны
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|0012BF",
+      "iconName": "WhisperingShack" // Шепчущая лачуга
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|001189",
+      "iconName": "FishingCamp" // Рыбачий Лагерь
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|000758",
+      "iconName": "CaravanTower" // Башня Каравана
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|000D09",
+      "iconName": "WindCamp" // Лагерь Ветров
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|001352",
+      "iconName": "BlizzardCamp" // Лагерь Буран
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|0011DF",
+      "iconName": "WaterfallCamp" // Лагерь Водопад
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|000E21",
+      "iconName": "IceHollowCamp" // Лагерь Ледяная Лощина
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|001057",
+      "iconName": "SnowyExpanseCamp" // Лагерь Снежный Простор
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|000F65",
+      "iconName": "FangCamp" // Лагерь Клык
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|000D78",
+      "iconName": "FreylaShack" // Хижина Фрейлы
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|000B28",
+      "iconName": "IronSkullMine" // Шахта Железный Череп
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|001117",
+      "iconName": "MossyBrookCamp" // Лагерь Мшистый Ручей
+    },
+    {
+      "refID": "Skyrim Bandit Expansion.esp|000633",
+      "iconName": "AnchorCamp" // Лагерь Якорь
+    },
+    {
+      "refID": "Simple Bandit Camps.esp|1279FF",
+      "iconName": "Karthriver" // Картривер
+    },
+    {
+      "refID": "Simple Bandit Camps.esp|435953",
+      "iconName": "RootGrotto" // Корнеплодов грот
+    },
+    {
+      "refID": "Simple Bandit Camps.esp|0611CB",
+      "iconName": "Permafrost" // Мерзлота
+    },
+    {
+      "refID": "Simple Bandit Camps.esp|065CFF",
+      "iconName": "PaleWatchtower" // Наблюдательный пост Белобережье
+    },
+    {
+      "refID": "Simple Bandit Camps.esp|2167BF",
+      "iconName": "BentHornCave" // Пещера Гнутый рог
+    },
+    {
+      "refID": "Simple Bandit Camps.esp|038408",
+      "iconName": "ColdWaveRefuge" // Убежище Холодная волна
+    },
+    {
+      "refID": "Simple Bandit Camps.esp|2C84DC",
+      "iconName": "ReachSlopeMine" // Шахта Склон Предела
+    },
+    {
+      "refID": "RiverwoodBandits.esp|8C8",
+      "iconName": "CampSkyCliff" // Лагерь Небесный Утес
+    },
+    {
+      "refID": "IlinmereTower.esp|8A2",
+      "iconName": "IlinmirTower" // Башня Илинмир
+    },
+    {
+      "refID": "Ryn's Azura's Shrine.esp|000E1E",
+      "iconName": "ShrineOfAzuraDungeon" // Святилище Азуры - Подземелье
+    },
+    {
+      "refID": "Ryn's Lost Valley Redoubt.esp|000C8B",
+      "iconName": "Sunvald" // Сунвальд
+    },
+    {
+      "refID": "ccbgssse016-umbra.esm|00CD93",
+      "iconName": "ChampionsChamber" // Могила чемпиона
+    },
+    {
+      "refID": "Ryn's Mistwatch Folly.esp|000964",
+      "iconName": "MistwatchDungeon" // Туманная Застава - Подземелье
+    },
+    {
+      "refID": "Ryn's Snazzy Last Vigil.esp|00087B",
+      "iconName": "EbonyKeep" // Эбеновая крепость
+    },
+    {
+      "refID": "HeartOfTheReach.esp|0C9189",
+      "iconName": "HeartOfTheReach" // Вечная Топь
+    },
+    {
+      "refID": "Taarengrav.esp|0BBC21",
+      "iconName": "TaarengravMine" // Шахта Тааренгрев
+    }
+  ]
+}

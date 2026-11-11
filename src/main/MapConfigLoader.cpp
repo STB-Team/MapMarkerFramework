@@ -70,6 +70,7 @@ void MapConfigLoader::LoadFromFile(
 
 	auto importManager = ImportManager::GetSingleton();
 	auto discoveryMusicManager = DiscoveryMusicManager::GetSingleton();
+	const auto revealPrefix = root["revealUndiscoveredPrefix"].asString();
 
 	Json::Value iconDefinitions = root["iconDefinitions"];
 	if (iconDefinitions.isArray()) {
@@ -105,8 +106,8 @@ void MapConfigLoader::LoadFromFile(
 					exportNameUndiscovered = exportNames[1].asString();
 				}
 
-				importManager
-					->AddCustomIcon(path, exportName, exportNameUndiscovered, scale, hideFromHUD);
+				const bool reveal = !revealPrefix.empty() && exportNameUndiscovered.starts_with(revealPrefix);
+				importManager->AddCustomIcon(path, exportName, exportNameUndiscovered, scale, hideFromHUD, reveal);
 
 				_iconNames[name] = _lastIcon++;
 

@@ -127,6 +127,35 @@ any location that uses that keyword.
 Each of the above properties take priority from least to most specific. `location` has the highest
 priority, followed by `vendorList`, and then `locType`.
 
+## STB: runtime undiscovered icons (2.2.2.1)
+
+The STB fork adds `MMF_RequestIconModeAPI(1)` (see `include/MMF/IconModeAPI.h`).
+`SetUndiscoveredIcons(bool)` accepts calls from any thread and applies the latest
+request on SKSE's Scaleform UI queue. The default is `false`.
+
+Configs opt in with a root-level `"revealUndiscoveredPrefix": "Undiscovered_Tir"`.
+Only definitions whose second `exportNames` entry starts with this nonempty prefix
+participate. In icon mode they use the first export instead; question mode restores
+the original second export. Discovered markers, nonmatching definitions, scale,
+music, `hideFromHUD`, and game discovery/visibility flags are unchanged.
+The original MMF read-only API is unchanged.
+
+Both tag lists are prepared once per loaded sprite. Switching selects existing
+lists rather than inserting frames again. The visible HUD markers are redrawn;
+map markers reflect the setting on the next map opening. Cached map/HUD resources
+are recognized so reopening a menu does not shift frame indices again.
+At most the latest HUD and map resource owners are retained.
+The upstream `bObscuredUndiscovered=1` option takes precedence over this extension.
+
+STB exposes the switch under **STB / Эффекты / Карта и компас** and saves
+`ShowMarkerIcons` in `Data/SKSE/Plugins/UserSettingsSTB.json` (`0` = questions,
+`1` = icons). No config files are rewritten at runtime. Remove the obsolete
+`STB Show Marker Icons/MapMarkers/Skyrim.json` override when migrating.
+
+`dist/Data/MapMarkers` contains the STB definitions, bindings and their resources.
+The migration is equivalent to the former override for all 423 participating
+definitions; 66 other definitions are preserved.
+
 ## Build Instructions
 ### Requirements
 * [CMake](https://cmake.org/)
