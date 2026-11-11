@@ -142,30 +142,6 @@ namespace SWF
 		return removeObject;
 	}
 
-	auto TagFactory::MakeRemoveObject(
-		RE::GFxMovieDataDef* a_movieData,
-		std::uint16_t a_characterId,
-		std::uint16_t a_depth) -> RE::GFxRemoveObject*
-	{
-		static REL::Relocation<std::uintptr_t> GFxRemoveObject_vtbl{
-			Offset::GFxRemoveObject::Vtbl
-		};
-
-		auto removeObject = static_cast<RE::GFxRemoveObject*>(
-			a_movieData->loadTaskData->allocator.Alloc(sizeof(RE::GFxRemoveObject)));
-
-		std::memset(removeObject, 0, sizeof(RE::GFxRemoveObject));
-
-		if (removeObject) {
-			*reinterpret_cast<std::uintptr_t*>(removeObject) = GFxRemoveObject_vtbl.get();
-
-			removeObject->characterId = a_characterId;
-			removeObject->depth = a_depth;
-		}
-
-		return removeObject;
-	}
-
 	auto TagFactory::MakeInitImportActions(RE::GFxMovieDataDef* a_movieData, std::uint32_t a_movieIndex)
 		-> RE::GFxInitImportActions*
 	{

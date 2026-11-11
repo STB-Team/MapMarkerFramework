@@ -129,6 +129,15 @@ priority, followed by `vendorList`, and then `locType`.
 
 ## STB: runtime undiscovered icons (2.2.2.1)
 
+This STB distribution targets **Skyrim SE 1.5.97 only**, not AE. It retains the
+upstream 2.2.2 framework but builds against the pinned STB-Team CommonLib SE.
+`SKSEPlugin_Query` rejects other runtimes before any SE relocation is used.
+The original SE 2.2.1 DLL/PDB and the local 1.5.97 executable were used to verify:
+HUD `50716+0xFF`, map `52206+0x1CF`, local-map door `52081+0x7B5`,
+discovery music `50758+0x3B3` (resume `+0x51D`, `rdi+0x44`, `rbp-0x29`),
+GFx string conversion `80274`, and the Scaleform vtables in `Offset.Ext.h`.
+The call targets are `80302` (HUD/map) and `52190` (local-map door).
+
 The STB fork adds `MMF_RequestIconModeAPI(1)` (see `include/MMF/IconModeAPI.h`).
 `SetUndiscoveredIcons(bool)` accepts calls from any thread and applies the latest
 request on SKSE's Scaleform UI queue. The default is `false`.
@@ -163,7 +172,7 @@ definitions; 66 other definitions are preserved.
 * [PowerShell](https://github.com/PowerShell/PowerShell/releases/latest)
 * [Vcpkg](https://github.com/microsoft/vcpkg)
 	* Add the environment variable `VCPKG_ROOT` with the value as the path to the folder containing vcpkg
-* [Visual Studio Community 2022](https://visualstudio.microsoft.com/)
+* [Visual Studio Community 2026](https://visualstudio.microsoft.com/)
 	* Desktop development with C++
 
 ### Register Visual Studio as a Generator
@@ -173,10 +182,8 @@ definitions; 66 other definitions are preserved.
 
 ### Building
 ```
-git clone https://github.com/Exit-9B/MapMarkerFramework
+git clone --recurse-submodules -b feature/stb-marker-mode https://github.com/STB-Team/MapMarkerFramework
 cd MapMarkerFramework
-git submodule init
-git submodule update
-cmake --preset vs2022-windows
+cmake --preset vs2026-windows -DSKYRIM_SUPPORT_AE=OFF
 cmake --build build --config Release
 ```
