@@ -127,6 +127,47 @@ any location that uses that keyword.
 Each of the above properties take priority from least to most specific. `location` has the highest
 priority, followed by `vendorList`, and then `locType`.
 
+## STB: runtime undiscovered icons (2.2.2.1)
+
+This STB distribution targets **Skyrim SE 1.5.97 only**, not AE. It retains the
+upstream 2.2.2 framework but builds against the pinned STB-Team CommonLib SE.
+`SKSEPlugin_Query` rejects other runtimes before any SE relocation is used.
+The original SE 2.2.1 DLL/PDB and the local 1.5.97 executable were used to verify:
+HUD `50716+0xFF`, map `52206+0x1CF`, local-map door `52081+0x7B5`,
+discovery music `50758+0x3B3` (resume `+0x51D`, `rdi+0x44`, `rbp-0x29`),
+GFx string conversion `80274`, and the Scaleform vtables in `Offset.Ext.h`.
+The call targets are `80302` (HUD/map) and `52190` (local-map door).
+
+The STB fork adds `MMF_RequestIconModeAPI(1)` (see `include/MMF/IconModeAPI.h`).
+`SetUndiscoveredIcons(bool)` accepts calls from any thread and applies the latest
+request on SKSE's Scaleform UI queue. The default is `false`.
+
+Configs opt in with a root-level `"revealUndiscoveredPrefix": "Undiscovered_Tir"`.
+Only definitions whose second `exportNames` entry starts with this nonempty prefix
+participate. In icon mode they use the first export instead; question mode restores
+the original second export. Discovered markers, nonmatching definitions, scale,
+music, `hideFromHUD`, and game discovery/visibility flags are unchanged.
+The original MMF read-only API is unchanged.
+
+Both tag lists are prepared once per loaded sprite. Switching selects existing
+lists rather than inserting frames again. The visible HUD markers are redrawn;
+map markers reflect the setting on the next map opening. Cached map/HUD resources
+are recognized so reopening a menu does not shift frame indices again.
+At most the latest HUD and map resource owners are retained.
+HUD refresh reads `CompassMarkerList` from the registered `HUDMenu::root`.
+CNO's separate Compass movie aliases that main-HUD array as `MarkerList`; the
+array is not a member of the Compass movie itself.
+The upstream `bObscuredUndiscovered=1` option takes precedence over this extension.
+
+STB exposes the switch under **STB / Эффекты / Карта и компас** and saves
+`ShowMarkerIcons` in `Data/SKSE/Plugins/UserSettingsSTB.json` (`0` = questions,
+`1` = icons). No config files are rewritten at runtime. Remove the obsolete
+`STB Show Marker Icons/MapMarkers/Skyrim.json` override when migrating.
+
+`dist/Data/MapMarkers` contains the STB definitions, bindings and their resources.
+The migration is equivalent to the former override for all 423 participating
+definitions; 66 other definitions are preserved.
+
 ## Build Instructions
 ### Requirements
 * [CMake](https://cmake.org/)
@@ -134,7 +175,7 @@ priority, followed by `vendorList`, and then `locType`.
 * [PowerShell](https://github.com/PowerShell/PowerShell/releases/latest)
 * [Vcpkg](https://github.com/microsoft/vcpkg)
 	* Add the environment variable `VCPKG_ROOT` with the value as the path to the folder containing vcpkg
-* [Visual Studio Community 2022](https://visualstudio.microsoft.com/)
+* [Visual Studio Community 2026](https://visualstudio.microsoft.com/)
 	* Desktop development with C++
 
 ### Register Visual Studio as a Generator
@@ -144,10 +185,8 @@ priority, followed by `vendorList`, and then `locType`.
 
 ### Building
 ```
-git clone https://github.com/Exit-9B/MapMarkerFramework
+git clone --recurse-submodules -b feature/stb-marker-mode https://github.com/STB-Team/MapMarkerFramework
 cd MapMarkerFramework
-git submodule init
-git submodule update
-cmake --preset vs2022-windows
+cmake --preset vs2026-windows -DSKYRIM_SUPPORT_AE=OFF
 cmake --build build --config Release
 ```

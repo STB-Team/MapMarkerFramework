@@ -20,7 +20,8 @@ public:
 		const std::string& a_exportName,
 		const std::string& a_exportNameUndiscovered,
 		float a_iconScale,
-		bool a_hideFromHUD);
+		bool a_hideFromHUD,
+		bool a_revealUndiscovered);
 
 	void HideFromHUD(RE::MARKER_TYPE a_markerType);
 

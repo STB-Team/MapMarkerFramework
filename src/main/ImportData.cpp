@@ -1,4 +1,5 @@
 #include "ImportData.h"
+#include "IconMode.h"
 #include "SWF/TagFactory.h"
 #include "Settings.h"
 #include "Util/GFxUtil.h"
@@ -65,6 +66,8 @@ void ImportData::InsertCustomIcons(
 
 	auto& movieData = _marker->movieData;
 
+	std::vector<IconMode::Frame> modeFrames;
+	modeFrames.reserve(_numIcons);
 	for (std::int32_t iconType = 0; iconType < IconTypes::Total; iconType++) {
 
 		if (obscureUndiscovered && iconType == IconTypes::Undiscovered) {
@@ -108,6 +111,20 @@ void ImportData::InsertCustomIcons(
 					{ placeObject, doAction });
 				break;
 			}
+
+			if (iconType == IconTypes::Undiscovered && a_iconInfo[i].RevealUndiscovered &&
+				!(_menuType == MenuType::HUD && _hideHUD[i])) {
+				auto iconObject = Util::MakeReplaceObject(movieData, _ids[IconTypes::Discovered][i]);
+				const auto iconTags = _menuType == MenuType::Map ?
+					Util::MakeTagList(movieData, { iconObject, _marker->frames[insertPos + i].data[1] }) :
+					Util::MakeTagList(movieData, { iconObject });
+				modeFrames.push_back({
+					static_cast<std::uint32_t>(a_insertPos + i),
+					static_cast<std::uint32_t>(insertPos + i),
+					_marker->frames[insertPos + i],
+					iconTags,
+				});
+			}
 		}
 	}
 
@@ -124,6 +141,7 @@ void ImportData::InsertCustomIcons(
 			_marker->frames[start + i] = { nullptr, 0 };
 		}
 	}
+	IconMode::Register(_menuType, _targetMovie, _marker, std::move(modeFrames));
 }
 
 auto ImportData::LoadMovie(const std::string& a_sourcePath) -> RE::GFxMovieDefImpl*

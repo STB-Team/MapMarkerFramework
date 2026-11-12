@@ -24,6 +24,7 @@ struct IconInfo
 	std::string ExportNameUndiscovered;
 	float IconScale;
 	bool HideFromHUD;
+	bool RevealUndiscovered;
 };
 
 class ImportData

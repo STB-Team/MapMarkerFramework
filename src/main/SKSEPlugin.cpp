@@ -37,18 +37,15 @@ namespace
 	}
 }
 
-extern "C" DLLEXPORT constinit auto SKSEPlugin_Version = []()
+extern "C" DLLEXPORT bool SKSEAPI SKSEPlugin_Query(
+	const SKSE::QueryInterface* a_skse, SKSE::PluginInfo* a_info)
 {
-	SKSE::PluginVersionData v{};
-
-	v.PluginVersion(Plugin::VERSION);
-	v.PluginName(Plugin::NAME);
-	v.AuthorName("Parapets"sv);
-
-	v.UsesAddressLibrary(true);
-
-	return v;
-}();
+	a_info->infoVersion = SKSE::PluginInfo::kVersion;
+	a_info->name = "MapMarkerFramework";
+	a_info->version = Plugin::VERSION.pack();
+	// This STB distribution uses the SE Scaleform layout and SE hook sites.
+	return !a_skse->IsEditor() && a_skse->RuntimeVersion() == SKSE::RUNTIME_1_5_97;
+}
 
 extern "C" DLLEXPORT bool SKSEAPI SKSEPlugin_Load(const SKSE::LoadInterface* a_skse)
 {
