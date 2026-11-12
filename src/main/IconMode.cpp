@@ -41,8 +41,10 @@ namespace IconMode
 			}
 
 			RE::GFxValue markers;
-			if (!hud->uiMovie->GetVariable(&markers,
-					"HUDMovieBaseInstance.CompassShoutMeterHolder.Compass.CompassMarkerList") || !markers.IsArray()) {
+			// CNO aliases HUDMovieBaseInstance.CompassMarkerList as MarkerList.
+			// The array belongs to the registered HUD root, not the Compass clip.
+			if ((!hud->root.IsObject() && !hud->root.IsDisplayObject()) ||
+				!hud->root.GetMember("CompassMarkerList", &markers) || !markers.IsArray()) {
 				logger::warn("MarkerIcons: HUD compass marker list not found");
 				return 0;
 			}

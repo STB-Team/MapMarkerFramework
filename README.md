@@ -154,6 +154,9 @@ lists rather than inserting frames again. The visible HUD markers are redrawn;
 map markers reflect the setting on the next map opening. Cached map/HUD resources
 are recognized so reopening a menu does not shift frame indices again.
 At most the latest HUD and map resource owners are retained.
+HUD refresh reads `CompassMarkerList` from the registered `HUDMenu::root`.
+CNO's separate Compass movie aliases that main-HUD array as `MarkerList`; the
+array is not a member of the Compass movie itself.
 The upstream `bObscuredUndiscovered=1` option takes precedence over this extension.
 
 STB exposes the switch under **STB / Эффекты / Карта и компас** and saves
